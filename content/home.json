@@ -7,13 +7,6 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2020-12-03T21:31:45.031Z",
-          "end": "2021-01-06T03:00:00.000Z",
-          "img": "/img/uploads/slidenatal1.jpg",
-          "link": "https://www.coisasdatecaloja.com.br/tecidos",
-          "alt": "Frete Grátis para Todo Brasil Voltou! Vem aproveitar "
-        },
-        {
           "start": "2020-11-12T03:43:39.119Z",
           "end": "",
           "img": "/img/uploads/slidearmarinhos2.jpg",
@@ -25,6 +18,12 @@
           "end": "",
           "img": "/img/uploads/anonovo.jpg",
           "link": "https://www.coisasdatecaloja.com.br/colecoes"
+        },
+        {
+          "start": "2021-01-07T00:21:13.640Z",
+          "end": "",
+          "img": "/img/uploads/fretegratis-2021.jpg",
+          "link": "https://www.coisasdatecaloja.com.br/pages/promocoes-frete"
         }
       ]
     },
