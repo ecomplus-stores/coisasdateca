@@ -54,6 +54,16 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5ff7a6c569274c73fcf25153:categories:Kit Necessaire:/kitnecessaire",
+      "sort": "sales",
+      "title": "♥ Kit Necessaire♥ ",
+      "link": "https://www.coisasdatecaloja.com.br/kitnecessaire"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": "",
       "page": "",
       "sort": "sales",
