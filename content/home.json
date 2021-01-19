@@ -85,15 +85,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/busqueportemas.png",
-          "link": "https://www.coisasdatecaloja.com.br/busque-por-temas"
+          "img": "/img/uploads/colecao-necessarie.png",
+          "link": "https://www.coisasdatecaloja.com.br/colecoes"
         },
         {
-          "img": "/img/uploads/banner-youtube.png",
-          "link": "https://www.youtube.com/channel/UCLVo4xgPbiXVimhonzdybsA"
+          "img": "/img/uploads/inscreva-seyoutube.png",
+          "link": "https://www.coisasdatecaloja.com.br/blog"
         },
         {
-          "img": "/img/uploads/kit-tecidos1.png",
+          "img": "/img/uploads/kit-tecidos.png",
           "link": "https://www.coisasdatecaloja.com.br/kit-tecidos"
         }
       ]
