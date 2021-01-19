@@ -7,23 +7,26 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2021-01-19T18:25:06.816Z",
+          "start": "2021-01-19T18:29:04.831Z",
           "end": "",
           "img": "/img/uploads/parceleslide.jpg",
           "link": "https://www.coisasdatecaloja.com.br/armarinho",
-          "mobile_img": ""
+          "mobile_img": "",
+          "alt": "Armarinhos para seu Artesanato você encontra aqui"
         },
         {
-          "start": "2021-01-19T18:25:31.624Z",
+          "start": "2021-01-19T18:29:24.326Z",
           "end": "",
           "img": "/img/uploads/tecidosslide.jpg",
-          "link": "https://www.coisasdatecaloja.com.br/colecoes"
+          "link": "https://www.coisasdatecaloja.com.br/tecidos",
+          "alt": "Tecidos para seu Artesanato, compre online em Coisas da Teca"
         },
         {
-          "start": "2021-01-07T00:21:13.640Z",
+          "start": "2021-01-19T18:29:42.462Z",
           "end": "",
           "img": "/img/uploads/fretegratis-2021.jpg",
-          "link": "https://www.coisasdatecaloja.com.br/pages/promocoes-frete"
+          "link": "https://www.coisasdatecaloja.com.br/pages/promocoes-frete",
+          "alt": "Enviamos para Todo Brasil, confira as Promoções em Frete "
         }
       ]
     },
@@ -86,7 +89,8 @@
       "banners": [
         {
           "img": "/img/uploads/colecao-necessarie.png",
-          "link": "https://www.coisasdatecaloja.com.br/colecoes"
+          "link": "https://www.coisasdatecaloja.com.br/kitnecessaire",
+          "alt": "Coleção Kit Necessarie - compre online"
         },
         {
           "img": "/img/uploads/inscreva-seyoutube.png",
@@ -94,7 +98,8 @@
         },
         {
           "img": "/img/uploads/kit-tecidos.png",
-          "link": "https://www.coisasdatecaloja.com.br/kit-tecidos"
+          "link": "https://www.coisasdatecaloja.com.br/kit-tecidos",
+          "alt": "Kit de Tecidos encontre aqui"
         }
       ]
     },
