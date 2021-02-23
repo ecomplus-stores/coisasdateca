@@ -37,7 +37,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "collection_id": null,
       "sort": "offers",
       "title": "♥ Em Oferta    ♥",
