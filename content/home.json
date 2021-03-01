@@ -100,6 +100,11 @@
           "img": "/img/uploads/kit-tecidos.png",
           "link": "https://www.coisasdatecaloja.com.br/kit-tecidos",
           "alt": "Kit de Tecidos encontre aqui"
+        },
+        {
+          "img": "/img/uploads/trioparcelamento.png",
+          "link": "https://www.coisasdatecaloja.com.br/ofertas",
+          "alt": "Veja mais Ofertas "
         }
       ]
     },
