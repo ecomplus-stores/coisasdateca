@@ -76,13 +76,13 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": "",
       "page": "",
       "collection_id": "5f4d14917430f92180ea7bdc:collections:Armarinho:/armarinho",
       "link": "https://www.coisasdatecaloja.com.br/armarinho",
       "title": "♥ Armarinho ♥",
-      "sort": "news"
+      "sort": null
     },
     {
       "type": "banners-grid",
