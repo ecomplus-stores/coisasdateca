@@ -59,7 +59,7 @@
       const search = new _.EcomSearch()
       search.setSortOrder('offers')
       await search.fetch()
-      let items = await search.getItems()
+      let items = await search.getItems().filter(item => _.ecomUtils.onPromotion(item))
     %>
     <div class="grid-retail">
       <%- await include('@/sections/inc/retail-grid', {
