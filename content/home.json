@@ -60,16 +60,16 @@
       "limit": 12,
       "page": 1,
       "collection_id": "5ff7a6c569274c73fcf25153:categories:Kit Necessaire:/kitnecessaire",
-      "sort": "sales",
+      "sort": "news",
       "title": "♥ Kit Necessaire♥ ",
       "link": "https://www.coisasdatecaloja.com.br/kitnecessaire"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": "",
+      "limit": 12,
       "page": "",
-      "sort": "sales",
+      "sort": "news",
       "collection_id": "5f19eb5614ff772fde81d80e:categories:Neutro Tom Tom:/tecido-neutro-tom-tom",
       "title": "♥Tecidos Neutros ♥",
       "link": "https://www.coisasdatecaloja.com.br/tecido-neutro-tom-tom"
@@ -79,10 +79,10 @@
       "shuffle": true,
       "limit": "",
       "page": "",
-      "collection_id": "5f4d14917430f92180ea7bdc:collections:Armarinho:/armarinho",
+      "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho",
       "link": "https://www.coisasdatecaloja.com.br/armarinho",
       "title": "♥ Armarinho ♥",
-      "sort": null
+      "sort": "news"
     },
     {
       "type": "banners-grid",
