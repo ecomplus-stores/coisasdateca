@@ -77,7 +77,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": "",
+      "limit": 24,
       "page": "",
       "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho",
       "link": "https://www.coisasdatecaloja.com.br/armarinho",
