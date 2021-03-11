@@ -75,13 +75,14 @@
       "link": "https://www.coisasdatecaloja.com.br/tecido-neutro-tom-tom"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
       "page": "",
-      "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho",
-      "link": "https://www.coisasdatecaloja.com.br/mais",
       "title": "♥ Armarinho ♥",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.coisasdatecaloja.com.br/mais",
+      "limit": 24,
+      "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho",
       "sort": "news"
     },
     {
