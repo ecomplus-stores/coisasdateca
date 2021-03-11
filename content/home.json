@@ -120,7 +120,7 @@
     {
       "page": "",
       "title": "♥Especiais do Mês♥",
-      "shuffle": false,
+      "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "link": "",
