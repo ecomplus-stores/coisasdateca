@@ -117,14 +117,15 @@
       "collection_id": null
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
       "page": "",
       "title": "♥Especiais do Mês♥",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": "",
       "collection_id": "5fc98acc69274c73fce11f2b:collections:Fim de Ano 2020:/fimdeano",
-      "sort": "news",
-      "link": ""
+      "sort": "news"
     },
     {
       "type": "page-title",
