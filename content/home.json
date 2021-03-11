@@ -37,6 +37,14 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "Lançamentos "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "collection_id": "603835e19332dd6865df1d16:categories:Ofertas:/ofertas",
       "sort": "offers",
       "title": "♥ Em Oferta  ♥",
@@ -63,16 +71,6 @@
       "sort": "news",
       "title": "♥ Kit Necessaire♥ ",
       "link": "https://www.coisasdatecaloja.com.br/kitnecessaire"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": "",
-      "sort": "news",
-      "collection_id": "5f19eb5614ff772fde81d80e:categories:Neutro Tom Tom:/tecido-neutro-tom-tom",
-      "title": "♥Tecidos Neutros ♥",
-      "link": "https://www.coisasdatecaloja.com.br/tecido-neutro-tom-tom"
     },
     {
       "page": "",
@@ -118,15 +116,14 @@
       "collection_id": null
     },
     {
-      "page": "",
-      "title": "♥Especiais do Mês♥",
-      "shuffle": true,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "",
-      "limit": 24,
-      "collection_id": "5fc98acc69274c73fce11f2b:collections:Fim de Ano 2020:/fimdeano",
-      "sort": "news"
+      "shuffle": false,
+      "limit": 12,
+      "page": "",
+      "sort": "news",
+      "collection_id": "5f19eb5614ff772fde81d80e:categories:Neutro Tom Tom:/tecido-neutro-tom-tom",
+      "title": "♥Tecidos Neutros ♥",
+      "link": "https://www.coisasdatecaloja.com.br/tecido-neutro-tom-tom"
     },
     {
       "type": "page-title",
