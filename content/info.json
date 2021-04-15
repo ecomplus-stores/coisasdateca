@@ -6,7 +6,8 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele sem juros para Pagamento Via Paypal * consulte as regras ",
+    "link": "https://coisasdatecaloja.com.br/pages/promocoes-frete"
   },
   "exchange": {
     "show": false,
