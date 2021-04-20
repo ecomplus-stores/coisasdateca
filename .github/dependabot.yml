@@ -1,0 +1,48 @@
+version: 2
+
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    allow:
+      - dependency-name: "@ecomplus/*"
+    ignore:
+      - dependency-name: "@ecomplus/*"
+        versions: [">=3"]
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: npm
+    directory: "/"
+    open-pull-requests-limit: 1
+    schedule:
+      interval: "daily"
+    allow:
+      - dependency-type: "direct"
+    ignore:
+      - dependency-name: "@ecomplus/storefront-template"
+        versions: [">=3"]
+      - dependency-name: "firebase-tools"
+        versions: [">=10"]
+      - dependency-name: "@netlify/zip-it-and-ship-it"
+      - dependency-name: "browser-sync"
+    commit-message:
+      prefix: "fix"
+      include: "scope"
+
+  - package-ecosystem: npm
+    directory: "/.functions"
+    open-pull-requests-limit: 3
+    schedule:
+      interval: "daily"
+    allow:
+      - dependency-type: "direct"
+    ignore:
+      - dependency-name: "@ecomplus/storefront-renderer"
+        versions: [">=3"]
+      - dependency-name: "firebase-admin"
+        versions: [">=10"]
+      - dependency-name: "firebase-functions"
+        versions: [">=4"]
+    commit-message:
+      prefix: "chore"
+      include: "scope"
