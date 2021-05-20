@@ -58,19 +58,19 @@
       "limit": 12,
       "page": "",
       "sort": "news",
-      "collection_id": "602d20969332dd6865d69702:categories:Coleção Signature Fabricart:/colecao-signature-fabricart",
-      "title": "♥ Coleção Signature Fabricart ♥",
-      "link": "https://www.coisasdatecaloja.com.br/colecao-signature-fabricart"
+      "collection_id": "60a582f6aa82b4705e42a5a3:categories:Coleção Modern Kitchen Fabricart:/colecao-modern-kitchen-fabricart",
+      "title": "♥ Coleção Modern Kitchen Fabricart ♥",
+      "link": "https://coisasdatecaloja.com.br/colecao-modern-kitchen-fabricart"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "5ff7a6c569274c73fcf25153:categories:Kit Necessaire:/kitnecessaire",
+      "collection_id": "5f19eb5914ff772fde81d814:categories:Coração:/tecido-estampa-coracao",
       "sort": "news",
-      "title": "♥ Kit Necessaire♥ ",
-      "link": "https://www.coisasdatecaloja.com.br/kitnecessaire"
+      "title": "♥ O amor está no ar  ♥ ",
+      "link": "https://coisasdatecaloja.com.br/tecido-estampa-coracao"
     },
     {
       "page": "",
@@ -121,9 +121,9 @@
       "limit": 12,
       "page": "",
       "sort": "news",
-      "collection_id": "5f19eb5614ff772fde81d80e:categories:Neutro Tom Tom:/tecido-neutro-tom-tom",
-      "title": "♥Tecidos Neutros ♥",
-      "link": "https://www.coisasdatecaloja.com.br/tecido-neutro-tom-tom"
+      "collection_id": "5f19eb5214ff772fde81d805:categories:Floral:/tecido-estampa-floral",
+      "title": "♥Tecidos Florais ♥",
+      "link": "https://coisasdatecaloja.com.br/tecido-estampa-floral"
     },
     {
       "type": "page-title",
