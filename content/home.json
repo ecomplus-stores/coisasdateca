@@ -37,20 +37,20 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": "",
+      "limit": 24,
+      "page": 1,
       "sort": "news",
-      "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho",
-      "title": "♥ Panos de Prato Divertidos  ♥",
-      "link": "https://coisasdatecaloja.com.br/pano-de-prato"
+      "title": "Lançamentos "
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
-      "page": 1,
+      "page": "",
       "sort": "news",
-      "title": "Lançamentos "
+      "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho",
+      "title": "♥ Panos de Prato Divertidos  ♥",
+      "link": "https://coisasdatecaloja.com.br/pano-de-prato"
     },
     {
       "type": "collection-shelf",
@@ -73,15 +73,14 @@
       "link": "https://coisasdatecaloja.com.br/tecido-estampa-coracao"
     },
     {
-      "page": "",
-      "title": "♥ Armarinho ♥",
-      "shuffle": true,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.coisasdatecaloja.com.br/mais",
-      "limit": 24,
-      "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho",
-      "sort": "news"
+      "shuffle": false,
+      "limit": 12,
+      "page": "",
+      "sort": "news",
+      "collection_id": "5f19eb5214ff772fde81d805:categories:Floral:/tecido-estampa-floral",
+      "title": "♥Tecidos Florais ♥",
+      "link": "https://coisasdatecaloja.com.br/tecido-estampa-floral"
     },
     {
       "type": "banners-grid",
@@ -116,14 +115,15 @@
       "collection_id": null
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
       "page": "",
-      "sort": "news",
-      "collection_id": "5f19eb5214ff772fde81d805:categories:Floral:/tecido-estampa-floral",
-      "title": "♥Tecidos Florais ♥",
-      "link": "https://coisasdatecaloja.com.br/tecido-estampa-floral"
+      "title": "♥ Armarinho ♥",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.coisasdatecaloja.com.br/mais",
+      "limit": 24,
+      "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho",
+      "sort": "news"
     },
     {
       "type": "page-title",
