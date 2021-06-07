@@ -37,6 +37,16 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": "",
+      "sort": "news",
+      "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho",
+      "title": "♥ Panos de Prato Divertidos  ♥",
+      "link": "https://coisasdatecaloja.com.br/pano-de-prato"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 24,
       "page": 1,
       "sort": "news",
@@ -51,16 +61,6 @@
       "page": "",
       "limit": "",
       "link": "https://www.coisasdatecaloja.com.br/ofertas"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": "",
-      "sort": "news",
-      "collection_id": "60a582f6aa82b4705e42a5a3:categories:Coleção Modern Kitchen Fabricart:/colecao-modern-kitchen-fabricart",
-      "title": "♥ Coleção Modern Kitchen Fabricart ♥",
-      "link": "https://coisasdatecaloja.com.br/colecao-modern-kitchen-fabricart"
     },
     {
       "type": "collection-shelf",
