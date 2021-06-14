@@ -7,25 +7,18 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2021-03-01T19:24:21.935Z",
-          "end": "",
-          "img": "/img/uploads/parcelamento.jpg",
-          "link": "https://www.coisasdatecaloja.com.br/ofertas",
-          "alt": "Parcele suas compras em até 6x sem juros no cartão * Veja todas as Ofertas"
-        },
-        {
-          "start": "2021-01-19T18:29:24.326Z",
-          "end": "",
-          "img": "/img/uploads/tecidosslide.jpg",
-          "link": "https://www.coisasdatecaloja.com.br/tecidos",
-          "alt": "Tecidos para seu Artesanato, compre online em Coisas da Teca"
-        },
-        {
           "start": "2021-01-19T18:29:42.462Z",
           "end": "",
           "img": "/img/uploads/fretegratis-2021.jpg",
           "link": "https://www.coisasdatecaloja.com.br/pages/promocoes-frete",
           "alt": "Enviamos para Todo Brasil, confira as Promoções em Frete "
+        },
+        {
+          "start": "2021-03-01T19:24:21.935Z",
+          "end": "",
+          "img": "/img/uploads/panodeprato.jpg",
+          "link": "https://coisasdatecaloja.com.br/pano-de-prato",
+          "alt": "Panos de Prato Divertidos - Confira mais - Parcele suas compras em até 6x sem juros no cartão * "
         }
       ]
     },
