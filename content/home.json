@@ -48,13 +48,13 @@
           "img": "/img/uploads/cursores.jpg",
           "link": "https://coisasdatecaloja.com.br/cursores",
           "alt": "Diversos Cursores para seu Artesanato - confira aqui",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/cursores-mobile11.png"
         },
         {
           "img": "/img/uploads/tecidos-colecao.jpg",
           "link": "https://coisasdatecaloja.com.br/colecoes",
           "alt": "Tecidos para seu Artesanato busque por Coleções",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/tecidosmobile11.png"
         }
       ]
     },
