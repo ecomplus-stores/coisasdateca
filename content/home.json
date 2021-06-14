@@ -36,14 +36,24 @@
       "title": "Lançamentos "
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": "",
-      "sort": "news",
-      "collection_id": "60be4c21641ad82fcc223c64:categories:Pano de Prato:/pano-de-prato",
-      "title": "♥ Panos de Prato Divertidos  ♥",
-      "link": "https://coisasdatecaloja.com.br/pano-de-prato"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/parcele.jpg",
+          "link": "https://coisasdatecaloja.com.br/tecidos",
+          "alt": "Parcele suas compras em até 6x sem juros no Paypal * "
+        },
+        {
+          "img": "/img/uploads/cursores.jpg",
+          "link": "https://coisasdatecaloja.com.br/cursores",
+          "alt": "Diversos Cursores para seu Artesanato - confira aqui"
+        },
+        {
+          "img": "/img/uploads/tecidos-colecao.jpg",
+          "link": "https://coisasdatecaloja.com.br/colecoes",
+          "alt": "Tecidos para seu Artesanato busque por Coleções"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -58,46 +68,42 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 24,
+      "page": "",
+      "sort": "news",
+      "collection_id": "60be4c21641ad82fcc223c64:categories:Pano de Prato:/pano-de-prato",
+      "title": "♥ Panos de Prato Divertidos  ♥",
+      "link": "https://coisasdatecaloja.com.br/pano-de-prato"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/youtube.jpg",
+          "link": "https://www.coisasdatecaloja.com.br/blog",
+          "alt": "Acompanhe nosso Canal no Youtube- Vídeos Novos Toda Semana !"
+        },
+        {
+          "img": "/img/uploads/alcas.jpg",
+          "link": "https://coisasdatecaloja.com.br/alcas",
+          "alt": "Peças para montagem de artesanato com tecidos e diversos produtos de armarinho."
+        },
+        {
+          "img": "/img/uploads/necessarie.jpg",
+          "link": "https://coisasdatecaloja.com.br/kitnecessaire",
+          "alt": "Confeccione suas Necessaire com Kits Especiais "
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "5f19eb5914ff772fde81d814:categories:Coração:/tecido-estampa-coracao",
       "sort": "news",
       "title": "♥ O amor está no ar  ♥ ",
       "link": "https://coisasdatecaloja.com.br/tecido-estampa-coracao"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": "",
-      "sort": "news",
-      "collection_id": "5f19eb5214ff772fde81d805:categories:Floral:/tecido-estampa-floral",
-      "title": "♥Tecidos Florais ♥",
-      "link": "https://coisasdatecaloja.com.br/tecido-estampa-floral"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/colecao-necessarie.png",
-          "link": "https://www.coisasdatecaloja.com.br/kitnecessaire",
-          "alt": "Coleção Kit Necessarie - compre online"
-        },
-        {
-          "img": "/img/uploads/inscreva-seyoutube.png",
-          "link": "https://www.coisasdatecaloja.com.br/blog"
-        },
-        {
-          "img": "/img/uploads/kit-tecidos.png",
-          "link": "https://www.coisasdatecaloja.com.br/kit-tecidos",
-          "alt": "Kit de Tecidos encontre aqui"
-        },
-        {
-          "img": "/img/uploads/trioparcelamento.png",
-          "link": "https://www.coisasdatecaloja.com.br/ofertas",
-          "alt": "Veja mais Ofertas "
-        }
-      ]
     },
     {
       "type": "collection-shelf",
