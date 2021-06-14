@@ -100,10 +100,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "5f19eb5914ff772fde81d814:categories:Coração:/tecido-estampa-coracao",
+      "collection_id": "60b50df529a8311706523b41:categories:Coleção Natal:/colecao-natal",
       "sort": "news",
-      "title": "♥ O amor está no ar  ♥ ",
-      "link": "https://coisasdatecaloja.com.br/tecido-estampa-coracao"
+      "title": "Especial Natal ",
+      "link": "https://coisasdatecaloja.com.br/colecao-natal"
     },
     {
       "type": "collection-shelf",
@@ -119,7 +119,7 @@
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.coisasdatecaloja.com.br/mais",
+      "link": "https://coisasdatecaloja.com.br/armarinho",
       "limit": 24,
       "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho",
       "sort": "news"
