@@ -42,19 +42,19 @@
           "img": "/img/uploads/parcele.jpg",
           "link": "https://coisasdatecaloja.com.br/tecidos",
           "alt": "Parcele suas compras em até 6x sem juros no Paypal * ",
-          "mobile_img": "/img/uploads/parcele-mobil11.png"
+          "mobile_img": ""
         },
         {
           "img": "/img/uploads/cursores.jpg",
           "link": "https://coisasdatecaloja.com.br/cursores",
           "alt": "Diversos Cursores para seu Artesanato - confira aqui",
-          "mobile_img": "/img/uploads/cursores-mobile11.png"
+          "mobile_img": ""
         },
         {
           "img": "/img/uploads/tecidos-colecao.jpg",
           "link": "https://coisasdatecaloja.com.br/colecoes",
           "alt": "Tecidos para seu Artesanato busque por Coleções",
-          "mobile_img": "/img/uploads/tecidosmobile11.png"
+          "mobile_img": ""
         }
       ]
     },
@@ -85,19 +85,19 @@
           "img": "/img/uploads/youtube.jpg",
           "link": "https://www.coisasdatecaloja.com.br/blog",
           "alt": "Acompanhe nosso Canal no Youtube- Vídeos Novos Toda Semana !",
-          "mobile_img": "/img/uploads/youtubemobile11.png"
+          "mobile_img": ""
         },
         {
           "img": "/img/uploads/alcas.jpg",
           "link": "https://coisasdatecaloja.com.br/alcas",
           "alt": "Peças para montagem de artesanato com tecidos e diversos produtos de armarinho.",
-          "mobile_img": "/img/uploads/alcasmobile11.png"
+          "mobile_img": ""
         },
         {
           "img": "/img/uploads/necessarie.jpg",
           "link": "https://coisasdatecaloja.com.br/kitnecessaire",
           "alt": "Confeccione suas Necessaire com Kits Especiais ",
-          "mobile_img": "/img/uploads/necessarie-mobile11.png"
+          "mobile_img": ""
         }
       ]
     },
