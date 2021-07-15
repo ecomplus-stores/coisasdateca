@@ -28,6 +28,10 @@
       "mobile_img": "/img/uploads/fachadamobileteca.png"
     },
     {
+      "type": "custom-content",
+      "markdown": "[Acompanhe a partir das 16h - Hoje - Live no Instagram ](https://www.instagram.com/coisasdateca/)\n\n![]()"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
