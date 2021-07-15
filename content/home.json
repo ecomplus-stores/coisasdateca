@@ -30,6 +30,16 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60f0814bd505781f1a7e58c1:collections:Especial Live Coisas da Teca:/especial-live-coisasdateca",
+      "sort": "lowest_price",
+      "title": "Especial Live Coisas da Teca",
+      "link": "https://coisasdatecaloja.com.br/especial-live-coisasdateca"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 24,
       "page": 1,
       "sort": "news",
