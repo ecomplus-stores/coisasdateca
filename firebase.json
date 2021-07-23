@@ -1,7 +1,714 @@
 {
   "hosting": {
     "redirects": [
-    ],
+      {
+    source: "/tecido-nacional-colecao-semaninha-floral-estilotex",
+    destination: "/search?term=estilotex",
+    type: 301
+  },
+  {
+    source: "/painel-digital-colecao-minnie-borboletas",
+    destination: "/disney",
+    type: 301
+  },
+  {
+    source: "/tecido-colecao-pillow-painel-de-almofadas-princesas-fabricart",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-colecao-pillow-painel-de-almofadas-passarinho-rosa",
+    destination: "/colecao-passaros",
+    type: 301
+  },
+  {
+    source: "/tecido-colecao-pillow-painel-de-almofadas-passarinho-rosa",
+    destination: "/colecao-passaros",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-digital-colecao-texturas",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-digital-colecao-indiano",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-digital-colecao-patchwork",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-digital-colecao-fitas-cashmere",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-digital-colecao-bordado",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-digital-coracoes-rose",
+    destination: "/tecido-estampa-coracao",
+    type: 301
+  },
+  {
+    source: "/tecido-colecao-galinha-de-angola",
+    destination: "/galinhas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-digital-colecao-mini-flores-caramelo",
+    destination: "/tecido-estampa-floral",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-micro-floral-garden-50cm",
+    destination: "/tecido-estampa-floral",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-digital-caveiras-rock",
+    destination: "/caveiras",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-digital-caveiras-retro",
+    destination: "/caveiras",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-digital-caveiras-charme",
+    destination: "/caveiras",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-rosas",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-jeans-florzinhas",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-linho-tranca-cru",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-rosas-fundo-verde",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-sarja-verde-militar",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-rosas-com-fundo-vermelho",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-linho-flor-de-lotus",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-sarja-tiffany-tres-coracoes",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-jeans-tradicional-quilt-elis",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-jeans-florzinhas-e-nuvem",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-linho-caramelo-flor-de-lotus",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-linho-rose-flor-de-lotus",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-sarja-caramelo-flor-de-lotus",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-matelassado-sarja-preto-costela-de-adao-com-linha-prata",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/fita-de-gorgurao-38mm-cinderela-girassol-com-10-metros",
+    destination: "/fitas",
+    type: 301
+  },
+  {
+    source: "/p_847",
+    destination: "/fitas",
+    type: 301
+  },
+  {
+    source: "/fita-de-gorgurao-chevron-38mm-cinderela-com-10-metros",
+    destination: "/fitas",
+    type: 301
+  },
+  {
+    source: "/fita-de-gorgurao-kiwi-38mm-cinderela-com-10-metros",
+    destination: "/fitas",
+    type: 301
+  },
+  {
+    source: "/fita-de-gorgurao-38mm-cinderela-flamingo-com-10-metros",
+    destination: "/fitas",
+    type: 301
+  },
+  {
+    source: "/fita-de-gorgurao-cactus-38mm-cinderela-com-10-metros",
+    destination: "/fitas",
+    type: 301
+  },
+  {
+    source: "/fita-de-gorgurao-matrioska-38mm-cinderela-com-10-metros",
+    destination: "/fitas",
+    type: 301
+  },
+  {
+    source: "/p_446",
+    destination: "/fitas",
+    type: 301
+  },
+  {
+    source: "/fita-de-gorgurao-38mm-cinderela-paris-com-10-metros",
+    destination: "/fitas",
+    type: 301
+  },
+  {
+    source: "/fita-de-gorgurao-unicornio-azul-38mm-cinderela-com-10-metros",
+    destination: "/fitas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-planetas",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/p_599",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-viva-mexico-lhama",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-floresta",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-lica-cat",
+    destination: "/tecidos",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-flores-delicadas",
+    destination: "/tecido-estampa-floral",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-zoo-fundo-cinza",
+    destination: "/colecao-mini-zoo-fabricart",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-tody-dog",
+    destination: "/tecidos-estampa-animais",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-luminous-by-carol-viana",
+    destination: "/colecoes",
+    type: 301
+  },
+  {
+    source: "/p_505",
+    destination: "/colecoes",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-anjos-patch",
+    destination: "/colecoes",
+    type: 301
+  },
+  {
+    source: "/elastico-chato-10mm-branco-rolo-com-100-metros",
+    destination: "/elasticos",
+    type: 301
+  },
+  {
+    source: "/elastico-chato-5mm-goiaba-rolo-com-100-metros",
+    destination: "/elasticos",
+    type: 301
+  },
+  {
+    source: "/elastico-rolico-macio-3mm-preto-rolo-com-100-metros",
+    destination: "/elasticos",
+    type: 301
+  },
+  {
+    source: "/alca-para-clutch-carteira-coral-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+  {
+    source: "/alca-para-clutch-carteira-tifanny-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+
+  {
+    source: "/alca-para-clutch-carteira-vermelho-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+
+  {
+    source: "/alca-para-clutch-carteira-fucsia-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+
+  {
+    source: "/alca-para-clutch-carteira-lilas-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+
+  {
+    source: "/alca-para-clutch-carteira-marinho-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+
+  {
+    source: "/alca-para-clutch-carteira-cru-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+
+  {
+    source: "/alca-para-clutch-carteira-roxo-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+
+  {
+    source: "/alca-para-clutch-carteira-azul-indigo-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+
+  {
+    source: "/alca-para-clutch-carteira-verde-escuro-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+
+  {
+    source: "/alca-para-clutch-carteira-verde-folha-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+  {
+    source: "/alca-para-clutch-carteira-rosa-bebe-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+  {
+    source: "/alca-para-clutch-carteira-uva-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+  {
+    source: "/alca-para-clutch-carteira-verde-agua-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+  {
+    source: "/alca-para-clutch-carteira-azul-celeste-niquelado",
+    destination: "/alcas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-borboleta-estilotex",
+    destination: "/tecido-estampa-borboleta",
+    type: 301
+  },
+  {
+    source: "/colecao-halloween-bruxinhas-estilotex",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-faixas-estilotex",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/p_495",
+    destination: "/search?term=estilotex",
+    type: 301
+  },
+  {
+    source: "/p_493",
+    destination: "/search?term=estilotex",
+    type: 301
+  },
+  {
+    source: "/p_496",
+    destination: "/search?term=estilotex",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-safari-big-baby",
+    destination: "/tecidos-estampa-animais",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-chicken-espirais",
+    destination: "/galinhas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-chicken-fundo-branco",
+    destination: "/galinhas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-chicken-fundo-preto",
+    destination: "/galinhas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-chicken-fundo-marrom-claro",
+    destination: "/galinhas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-tricoline--metalizado-dourado",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-tricoline-metalizado-ferrugem",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-semaninha-morangos-colecao",
+    destination: "/tecido-estampa-frutas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-semaninha-casinhas",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-casinha-semaninha-nacional",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-semaninha-utensilios-colecao",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-semaninha-utensilios-domesticos",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-semaninha-circulo-animais",
+    destination: "/tecidos-estampa-animais",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-caveiras-pink",
+    destination: "/caveiras",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-digital-caveiras",
+    destination: "/caveiras",
+    type: 301
+  },
+  {
+    source:
+      "/tecido-nacional-colecao-turma-da-monica-onomatopeia-monica-e-magali",
+    destination: "/turma-da-monica",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-turma-da-monica-fundo-vermelho",
+    destination: "/turma-da-monica",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-turma-da-monica-bidu-ossinhos",
+    destination: "/turma-da-monica",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-turma-da-monica-baloes-com-rostinhos",
+    destination: "/turma-da-monica",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-turma-da-monica-fundo-vermelho",
+    destination: "/turma-da-monica",
+    type: 301
+  },
+
+  {
+    source: "/tecido-nacional-colecao-neutro-tons-rosa",
+    destination: "/tecido-neutro-tom-tom",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-arabesque-branco",
+    destination: "/tecido-estampa-geometrico",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-arabesque-turmalina-fabricart",
+    destination: "/tecido-estampa-geometrico",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-arabesque-creme-fabricart",
+    destination: "/tecido-estampa-geometrico",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-arabesque-azul-fabricart",
+    destination: "/tecido-estampa-geometrico",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-arabesque-vinho-fabricart",
+    destination: "/tecido-estampa-geometrico",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-arabesque-fundo-branco",
+    destination: "/tecido-estampa-geometrico",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-arabesque-fundo-preto",
+    destination: "/tecido-estampa-geometrico",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-picnic-formiga",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-colecao-xadrez-verde-picnic-fabricart",
+    destination: "/xadrez",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-casinha-fundo-verde",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-natural-beauty-listrado",
+    destination: "/tecido-listrado",
+    type: 301
+  },
+
+  {
+    source: "/tecido-nacional-colecao-natural-beauty-azul",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-cilios-fabricart",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-estrelinha-azul",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-estrelinhas",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-shine-azul",
+    destination: "/colecoes",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-shine-cinza",
+    destination: "/colecoes",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-shine-bege",
+    destination: "/colecoes",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-poa-lilas",
+    destination: "/tecido-estampa-poa",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-chevron-preto-e-branco",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-sereia",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+
+  {
+    source: "/p_736",
+    destination: "/busque-por-temas",
+    type: 301
+  },
+  {
+    source: "/tecido-colecao-baby-train-com-estrelas",
+    destination: "/colecoes",
+    type: 301
+  },
+  {
+    source: "/tecido-colecao-baby-train-bichinhos-e-letras",
+    destination: "/colecoes",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-branca-de-neve",
+    destination: "/colecoes",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-skate",
+    destination: "/colecoes",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-dumbo",
+    destination: "/colecoes",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-rei-leao",
+    destination: "/colecoes",
+    type: 301
+  },
+  {
+    source: "/tecido-nacional-colecao-corujinha",
+    destination: "/colecoes",
+    type: 301
+  },
+  {
+    source: "/p_812",
+    destination: "/tecidos-estampa-animais",
+    type: 301
+  },
+  {
+    source: "/fecho-de-ima-fucsia-niquelado",
+    destination: "/armarinho",
+    type: 301
+  },
+  {
+    source: "/fecho-de-ima-vermelho-niquelado",
+    destination: "/armarinho",
+    type: 301
+  },
+  {
+    source: "/fecho-de-ima-cinza-niquelado",
+    destination: "/armarinho",
+    type: 301
+  },
+  {
+    source: "/fecho-de-ima-uva-niquelado",
+    destination: "/armarinho",
+    type: 301
+  },
+  {
+    source: "/fecho-de-ima-cru-niquelado",
+    destination: "/armarinho",
+    type: 301
+  },
+  {
+    source: "/fecho-de-ima-tifanny-niquelado",
+    destination: "/armarinho",
+    type: 301
+  },
+  {
+    source: "/fecho-de-ima-marinho-niquelado",
+    destination: "/armarinho",
+    type: 301
+  },
+  {
+    source: "/fecho-de-ima-verde-escuro-niquelado",
+    destination: "/armarinho",
+    type: 301
+  },
+  {
+    source: "/fecho-de-ima-rosa-bebe-niquelado",
+    destination: "/armarinho",
+    type: 301
+  },
+  {
+    source: "/fecho-de-ima-azul-celeste-niquelado",
+    destination: "/armarinho",
+    type: 301
+  },
+  {
+    source: "/fecho-de-ima-azul-indigo-niquelado",
+    destination: "/armarinho",
+    type: 301
+  },
+  {
+    source: "/fecho-de-ima-verde-agua-niquelado",
+    destination: "/armarinho",
+    type: 301
+  }],
     "public": "dist",
     "ignore": [
       "firebase.json",
