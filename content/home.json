@@ -29,7 +29,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 24,
       "page": 1,
       "sort": "news",
