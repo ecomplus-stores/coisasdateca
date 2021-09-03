@@ -30,10 +30,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
+      "limit": 12,
       "page": 1,
       "sort": "news",
-      "title": "Lançamentos"
+      "title": "Lançamentos "
     },
     {
       "type": "banners-grid",
