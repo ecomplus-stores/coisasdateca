@@ -32,7 +32,7 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "views",
+      "sort": "news",
       "title": "Lançamentos"
     },
     {
