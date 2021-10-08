@@ -114,7 +114,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "sort": "sales",
+      "sort": "news",
       "headless": false,
       "title": "♥Queridinhos♥",
       "collection_id": null
