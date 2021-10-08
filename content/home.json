@@ -36,6 +36,17 @@
       "title": "Lançamentos "
     },
     {
+      "page": "",
+      "title": "♥ Armarinho ♥",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://coisasdatecaloja.com.br/armarinho",
+      "limit": 24,
+      "collection_id": "5f4d14917430f92180ea7bdc:collections:Armarinho:/armarinho",
+      "sort": "news"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -67,16 +78,6 @@
       "page": "",
       "limit": 12,
       "link": "https://www.coisasdatecaloja.com.br/ofertas"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": "",
-      "sort": "news",
-      "collection_id": "6160533228ace502ae9b1ab3:categories:Garden:/ursinhos-marinheiros",
-      "title": "♥ Coleção Garden  ♥",
-      "link": "https://coisasdatecaloja.com.br/garden-colecao"
     },
     {
       "type": "banners-grid",
@@ -114,21 +115,20 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
+      "limit": 24,
+      "page": "",
+      "sort": "news",
+      "collection_id": "6160533228ace502ae9b1ab3:categories:Garden:/ursinhos-marinheiros",
+      "title": "♥ Coleção Garden  ♥",
+      "link": "https://coisasdatecaloja.com.br/garden-colecao"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
       "sort": "news",
       "headless": false,
       "title": "♥Queridinhos♥",
       "collection_id": null
-    },
-    {
-      "page": "",
-      "title": "♥ Armarinho ♥",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://coisasdatecaloja.com.br/armarinho",
-      "limit": 24,
-      "collection_id": "5f4d14917430f92180ea7bdc:collections:Armarinho:/armarinho",
-      "sort": "news"
     },
     {
       "type": "page-title",
