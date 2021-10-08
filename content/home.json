@@ -60,9 +60,9 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "collection_id": "603835e19332dd6865df1d16:categories:Ofertas:/ofertas",
-      "sort": "offers",
+      "sort": "news",
       "title": "♥ Em Oferta  ♥",
       "page": "",
       "limit": 12,
