@@ -30,8 +30,8 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
+      "limit": 24,
+      "page": 2,
       "sort": "news",
       "title": "Lançamentos "
     },
