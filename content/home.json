@@ -103,7 +103,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "616097c228ace502ae9b9fe3:categories:Coleção Ursinhos Marinheiros:/colecao-ursinhos-marinheiros",
