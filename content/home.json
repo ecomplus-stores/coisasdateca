@@ -36,15 +36,12 @@
       "title": "Lançamentos "
     },
     {
-      "page": "",
-      "title": "♥ Armarinho ♥",
-      "shuffle": true,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "https://coisasdatecaloja.com.br/armarinho",
-      "limit": 24,
-      "collection_id": "5f4d14917430f92180ea7bdc:collections:Armarinho:/armarinho",
-      "sort": "news"
+      "shuffle": true,
+      "sort": "news",
+      "headless": false,
+      "title": "♥Queridinhos♥",
+      "collection_id": null
     },
     {
       "type": "banners-grid",
@@ -123,12 +120,15 @@
       "link": "https://coisasdatecaloja.com.br/garden-colecao"
     },
     {
-      "type": "collection-shelf",
+      "page": "",
+      "title": "♥ Armarinho ♥",
       "shuffle": true,
-      "sort": "news",
       "headless": false,
-      "title": "♥Queridinhos♥",
-      "collection_id": null
+      "type": "collection-shelf",
+      "link": "https://coisasdatecaloja.com.br/armarinho",
+      "limit": 24,
+      "collection_id": "5f4d14917430f92180ea7bdc:collections:Armarinho:/armarinho",
+      "sort": "news"
     },
     {
       "type": "page-title",
