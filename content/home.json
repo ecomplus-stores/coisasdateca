@@ -65,7 +65,7 @@
       "sort": "offers",
       "title": "♥ Em Oferta  ♥",
       "page": "",
-      "limit": "",
+      "limit": 12,
       "link": "https://www.coisasdatecaloja.com.br/ofertas"
     },
     {
@@ -75,8 +75,8 @@
       "page": "",
       "sort": "news",
       "collection_id": "613274a6522ab535e603342c:categories:Coleção Yummy Fabricart:/colecao-yummy-fabricart",
-      "title": "♥ Coleção Yummy Fabricart  ♥",
-      "link": "https://coisasdatecaloja.com.br/colecao-yummy-fabricart"
+      "title": "♥ Coleção Kitty Garden  ♥",
+      "link": "https://coisasdatecaloja.com.br/colecao-kitty-garden"
     },
     {
       "type": "banners-grid",
