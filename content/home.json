@@ -36,12 +36,15 @@
       "title": "Lançamentos "
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "sort": "news",
-      "headless": false,
+      "page": 2,
       "title": "♥Queridinhos♥",
-      "collection_id": null
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://coisasdatecaloja.com.br/os-queridinhos-coisasdateca",
+      "limit": 12,
+      "collection_id": "6160cfed28ace502ae9bfe06:collections:Os Queridinhos:/os-queridinhos-coisasdateca",
+      "sort": "news"
     },
     {
       "type": "banners-grid",
