@@ -135,11 +135,26 @@
     },
     {
       "type": "page-title",
-      "title": "Blog Coisas da Teca "
+      "title": "Blog Coisas da Teca ",
+      "description": "Confira Aulas em Vídeos em nosso Blog! "
     },
     {
-      "type": "blog",
-      "enabled": true
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/tapetepet.png",
+          "link": "https://coisasdatecaloja.com.br/posts/diy-passo-a-passo-tapete-para-seu-pet"
+        },
+        {
+          "img": "/img/uploads/coisas-da-teca-youtube.png",
+          "link": "https://coisasdatecaloja.com.br/blog",
+          "mobile_img": ""
+        },
+        {
+          "link": "https://coisasdatecaloja.com.br/posts/diy-passo-a-passo-reaproveitamento-de-retalhos-necessaire-meia-lua",
+          "img": "/img/uploads/necessariemeialuaretalhos.png"
+        }
+      ]
     },
     {
       "type": "info-bar",
