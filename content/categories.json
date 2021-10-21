@@ -23,6 +23,11 @@
     {
       "type": "page-title",
       "title": "&#9986; Confira as Novidades da Loja &#9986;"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     }
   ]
 }
