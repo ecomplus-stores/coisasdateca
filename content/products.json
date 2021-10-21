@@ -19,6 +19,15 @@
     {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
+    },
+    {
+      "type": "page-title",
+      "title": "♥Confira os Lançamentos  ♥"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     }
   ]
 }
