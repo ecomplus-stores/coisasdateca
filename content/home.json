@@ -28,25 +28,23 @@
       "mobile_img": "/img/uploads/fachadamobileteca.png"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 2,
-      "sort": "news",
-      "title": "Lançamentos ",
-      "collection_id": "5f4d13187430f92180ea7b7a:collections:Lançamentos:/lancamentos",
-      "link": "https://coisasdatecaloja.com.br/lancamentos"
+      "type": "page-title",
+      "title": "♥ Confira os Lançamentos ♥",
+      "description": "Tecidos e Armarinho para seu Artesanato"
     },
     {
-      "page": 1,
-      "title": "♥Queridinhos♥",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://coisasdatecaloja.com.br/os-queridinhos-coisasdateca",
-      "limit": 12,
-      "collection_id": "5fc98acc69274c73fce11f2b:collections:♥ Especiais do Mês ♥:/especiais-do-mes",
+      "type": "dynamic-showcase",
+      "load_more": false,
       "sort": "news"
+    },
+    {
+      "type": "page-title",
+      "title": "♥ Queridinhos de nossos clientes ♥"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
@@ -75,7 +73,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "603835e19332dd6865df1d16:categories:Ofertas:/ofertas",
-      "sort": "views",
+      "sort": "news",
       "title": "♥ Em Oferta  ♥",
       "page": "",
       "limit": 12,
@@ -83,7 +81,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho",
@@ -156,11 +154,6 @@
           "img": "/img/uploads/necessariemeialuaretalhos.png"
         }
       ]
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
     },
     {
       "type": "info-bar",
