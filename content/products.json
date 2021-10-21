@@ -22,12 +22,16 @@
     },
     {
       "type": "page-title",
-      "title": "♥Confira os Lançamentos  ♥"
+      "title": "&#x2702; Confira os Lançamentos &#x2702;"
     },
     {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": false
     }
   ]
 }
