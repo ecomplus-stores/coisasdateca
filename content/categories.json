@@ -19,6 +19,10 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "&#9986; Confira as Novidades da Loja &#9986;"
     }
   ]
 }
