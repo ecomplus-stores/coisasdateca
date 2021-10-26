@@ -8,10 +8,21 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "BLOG COISAS DA TECA",
+      "description": "Aulas e Tutorais para seu Artesanato"
     },
     {
       "type": "blog",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
+      "type": "info-bar",
       "enabled": true
     }
   ]
