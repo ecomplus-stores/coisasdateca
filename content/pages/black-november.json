@@ -1,0 +1,39 @@
+{
+  "title": "Black November ",
+  "meta_title": "Black November ",
+  "meta_description": "Descontos Imperdíveis de Tecidos e Armarinho na Coisas da Teca",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/topo-bf.jpg"
+    },
+    {
+      "type": "page-title",
+      "title": "Aproveite os Descontos Black November da Coisas da Teca",
+      "description": "Tecidos para seu artesanato e Armarinhos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5fac0b20b2161709fa4ae43d:collections:Black Friday:/black-november",
+      "sort": "lowest_price"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/entregabf.jpg"
+        },
+        {
+          "img": "/img/uploads/liveshop.jpg"
+        },
+        {
+          "img": "/img/uploads/youtube1.jpg"
+        }
+      ]
+    }
+  ],
+  "body": "## Parcele suas compras em até **6x sem juros** via Paypal * **pedido mínimo R$100**"
+}
