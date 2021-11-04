@@ -4,15 +4,8 @@
   "meta_description": "Descontos Imperdíveis de Tecidos e Armarinho na Coisas da Teca",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2021-11-04T19:04:43.004Z",
-          "end": "2021-11-04T19:04:43.063Z",
-          "img": "/img/uploads/bfcoisasteca.jpg"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/bfcoisasteca.jpg"
     },
     {
       "type": "page-title",
