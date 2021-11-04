@@ -24,13 +24,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/entregabf.jpg"
+          "img": "/img/uploads/entregabf.jpg",
+          "link": "https://coisasdatecaloja.com.br/pages/entrega"
         },
         {
-          "img": "/img/uploads/liveshop.jpg"
+          "img": "/img/uploads/liveshop.jpg",
+          "link": "https://www.instagram.com/coisasdateca/"
         },
         {
-          "img": "/img/uploads/youtube1.jpg"
+          "img": "/img/uploads/youtube1.jpg",
+          "link": "https://www.youtube.com/channel/UCLVo4xgPbiXVimhonzdybsA"
         }
       ]
     }
