@@ -12,13 +12,13 @@
       "enabled": true
     },
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "collection-retail",
       "enabled": true,
       "sort": "news"
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
     }
   ]
 }
