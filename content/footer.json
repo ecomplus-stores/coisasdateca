@@ -8,12 +8,8 @@
     "title": "Páginas",
     "list": [
       {
-        "text": "Fale com a Teca ",
-        "url": "https://coisasdatecaloja.com.br/pages/contato"
-      },
-      {
-        "text": "Entregas ",
-        "url": "https://coisasdatecaloja.com.br/pages/entrega"
+        "text": "Sobre a Coisas da Teca",
+        "url": "https://coisasdatecaloja.com.br/pages/sobre-nos"
       },
       {
         "text": "Política da Loja ",
@@ -22,21 +18,26 @@
       {
         "text": "Trocas e Devolução",
         "url": "https://coisasdatecaloja.com.br/pages/politica-de-reembolso-trocas-e-devolucoes"
-      },
-      {
-        "text": "Sobre a Coisas da Teca",
-        "url": "https://coisasdatecaloja.com.br/pages/sobre-nos"
-      },
-      {
-        "text": "Promoções e Descontos",
-        "url": "https://coisasdatecaloja.com.br/pages/promocoes-frete"
       }
     ]
   },
   "links_2": {
     "list_categories": false,
-    "title": "",
-    "list": []
+    "title": "Mais ",
+    "list": [
+      {
+        "text": "Frete e Promoções",
+        "url": "https://coisasdatecaloja.com.br/pages/promocoes-frete"
+      },
+      {
+        "text": "Formas de Entrega",
+        "url": "https://coisasdatecaloja.com.br/pages/entrega"
+      },
+      {
+        "text": "Fale com a Teca",
+        "url": "https://coisasdatecaloja.com.br/pages/contato"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
