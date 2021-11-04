@@ -13,6 +13,23 @@
       "description": "Tecidos para seu artesanato e Armarinhos"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/sdb2f.png",
+          "link": "https://coisasdatecaloja.com.br/tecidos"
+        },
+        {
+          "img": "/img/uploads/sdb1f.png",
+          "link": "https://coisasdatecaloja.com.br/armarinho"
+        },
+        {
+          "img": "/img/uploads/sdbf.png",
+          "link": "https://coisasdatecaloja.com.br/colecoes"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
