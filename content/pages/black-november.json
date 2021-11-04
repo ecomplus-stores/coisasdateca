@@ -10,7 +10,7 @@
         {
           "start": "2021-11-04T19:04:43.004Z",
           "end": "2021-11-04T19:04:43.063Z",
-          "img": "/img/uploads/topo-bf.jpg"
+          "img": "/img/uploads/bfcoisasteca.jpg"
         }
       ]
     },
@@ -23,16 +23,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/sdb2f.png",
+          "img": "/img/uploads/tecidosbfcoisasteca.jpg",
           "link": "https://coisasdatecaloja.com.br/tecidos"
         },
         {
-          "img": "/img/uploads/sdb1f.png",
-          "link": "https://coisasdatecaloja.com.br/armarinho"
+          "img": "/img/uploads/liveshopbf.jpg",
+          "link": ""
         },
         {
-          "img": "/img/uploads/sdbf.png",
-          "link": "https://coisasdatecaloja.com.br/colecoes"
+          "img": "/img/uploads/armarinhos-bfcoisasteca.jpg",
+          "link": "https://coisasdatecaloja.com.br/armarinho"
         }
       ]
     },
@@ -43,23 +43,6 @@
       "page": 1,
       "collection_id": "5fac0b20b2161709fa4ae43d:collections:Black Friday:/black-november",
       "sort": "lowest_price"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/entregabf.jpg",
-          "link": "https://coisasdatecaloja.com.br/pages/entrega"
-        },
-        {
-          "img": "/img/uploads/liveshop.jpg",
-          "link": "https://www.instagram.com/coisasdateca/"
-        },
-        {
-          "img": "/img/uploads/youtube1.jpg",
-          "link": "https://coisasdatecaloja.com.br/posts/inscreva-se-no-canal-e-acompanhe-videos-novos-toda-semana"
-        }
-      ]
     }
   ],
   "body": "## Parcele suas compras em até **6x sem juros** via Paypal * **pedido mínimo R$100**"
