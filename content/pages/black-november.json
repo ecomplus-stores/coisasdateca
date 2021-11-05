@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/bfcoisasteca.jpg"
+      "img": "/img/uploads/slide1.jpg"
     },
     {
       "type": "page-title",
@@ -16,15 +16,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/tecidosbfcoisasteca.jpg",
+          "img": "/img/uploads/tecido-.jpg",
           "link": "https://coisasdatecaloja.com.br/tecidos"
         },
         {
-          "img": "/img/uploads/liveshopbf.jpg",
+          "img": "/img/uploads/livie1.jpg",
           "link": ""
         },
         {
-          "img": "/img/uploads/armarinhos-bfcoisasteca.jpg",
+          "img": "/img/uploads/tecido2.jpg",
           "link": "https://coisasdatecaloja.com.br/armarinho"
         }
       ]
