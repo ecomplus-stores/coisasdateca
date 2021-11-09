@@ -7,16 +7,23 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2021-07-21T18:03:26.306Z",
+          "start": "2021-11-09T02:17:19.063Z",
+          "end": "2021-12-01T03:01:19.316Z",
+          "img": "/img/uploads/blcknovembrer.jpg",
+          "link": "https://coisasdatecaloja.com.br/pages/black-november",
+          "alt": "Descontos Black November - até 70% aproveite!"
+        },
+        {
+          "start": "2021-11-09T02:21:09.630Z",
           "end": "",
-          "img": "/img/uploads/slide-fretegratis-coisasdateca21.png",
+          "img": "/img/uploads/fretebf.jpg",
           "link": "https://www.coisasdatecaloja.com.br/pages/promocoes-frete",
           "alt": "Enviamos para Todo Brasil, confira as Promoções em Frete "
         },
         {
-          "start": "2021-07-21T18:03:17.316Z",
+          "start": "2021-11-09T02:21:33.436Z",
           "end": "",
-          "img": "/img/uploads/slide-colecao-21.png",
+          "img": "/img/uploads/colecaobfslide.jpg",
           "link": "https://coisasdatecaloja.com.br/colecoes",
           "alt": "Escolha seus Tecidos por Coleções - Confira mais - Parcele suas compras em até 6x sem juros no cartão * "
         }
@@ -29,45 +36,13 @@
     },
     {
       "type": "page-title",
-      "title": "♥ Confira os Lançamentos ♥",
+      "title": "♥ Ofertas de Novembro ♥",
       "description": "Tecidos e Armarinho para seu Artesanato"
     },
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "news"
-    },
-    {
-      "type": "page-title",
-      "title": "♥ Queridinhos de nossos clientes ♥"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/parcele.jpg",
-          "link": "https://coisasdatecaloja.com.br/tecidos",
-          "alt": "Parcele suas compras em até 6x sem juros no Paypal *",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/cursores.jpg",
-          "link": "https://coisasdatecaloja.com.br/cursores",
-          "alt": "Diversos Cursores para seu Artesanato - confira aqui",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/kittecidos.jpg",
-          "link": "https://coisasdatecaloja.com.br/kit-tecidos",
-          "alt": "Kit de Tecidos para seu Artesanato ",
-          "mobile_img": ""
-        }
-      ]
+      "sort": "offers"
     },
     {
       "type": "collection-shelf",
@@ -75,52 +50,32 @@
       "limit": 12,
       "page": 1,
       "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho",
-      "sort": "news",
-      "title": "♥ Armarinho ♥",
-      "link": "https://coisasdatecaloja.com.br/armarinho"
+      "sort": "offers",
+      "link": "https://coisasdatecaloja.com.br/armarinho",
+      "title": "Ofertas em Armarinho"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/youtube.jpg",
-          "link": "https://www.coisasdatecaloja.com.br/blog",
-          "alt": "Acompanhe nosso Canal no Youtube- Vídeos Novos Toda Semana !",
+          "img": "/img/uploads/bannerhomepequenobf.jpg",
+          "link": "https://coisasdatecaloja.com.br/pages/black-november",
+          "alt": "Parcele suas compras em até 6x sem juros no Paypal *",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/alcas.jpg",
-          "link": "https://coisasdatecaloja.com.br/alcas",
-          "alt": "Peças para montagem de artesanato com tecidos e diversos produtos de armarinho.",
+          "img": "/img/uploads/colecaobp.jpg",
+          "link": "https://coisasdatecaloja.com.br/colecoes",
+          "alt": "Busque tecidos por coleção",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/necessarie.jpg",
-          "link": "https://coisasdatecaloja.com.br/kitnecessaire",
-          "alt": "Confeccione suas Necessaire com Kits Especiais ",
+          "img": "/img/uploads/armarinho.jpg",
+          "link": "https://coisasdatecaloja.com.br/armarinho",
+          "alt": "Confira a Seção Armarinho",
           "mobile_img": ""
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "616097c228ace502ae9b9fe3:categories:Coleção Ursinhos Marinheiros:/colecao-ursinhos-marinheiros",
-      "sort": "news",
-      "title": " ♥ Coleção Ursinhos Marinheiros ♥",
-      "link": "https://coisasdatecaloja.com.br/colecao-ursinhos-marinheiros"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "collection_id": "6160533228ace502ae9b1ab3:categories:Garden:/garden-colecao",
-      "title": "♥ Coleção Garden  ♥",
-      "link": "https://coisasdatecaloja.com.br/garden-colecao"
     },
     {
       "type": "banners-grid",
