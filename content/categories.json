@@ -22,12 +22,12 @@
     },
     {
       "type": "page-title",
-      "title": "&#9986; Confira as Novidades da Loja &#9986;"
+      "title": "Em Oferta - Black November"
     },
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "news"
+      "sort": "offers"
     }
   ]
 }
