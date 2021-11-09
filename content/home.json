@@ -35,9 +35,10 @@
       "mobile_img": "/img/uploads/fachadamobileteca.png"
     },
     {
-      "type": "page-title",
-      "title": "Em Oferta - Black November ",
-      "description": "Tecidos e Armarinho para seu Artesanato"
+      "type": "responsive-banner",
+      "img": "/img/uploads/bsn-coisasdateca-bfs.jpg",
+      "link": "https://coisasdatecaloja.com.br/pages/black-november",
+      "alt": "Black November - Aproveite as Ofertas"
     },
     {
       "type": "dynamic-showcase",
@@ -45,37 +46,10 @@
       "sort": "offers"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho",
-      "sort": "offers",
+      "type": "responsive-banner",
+      "img": "/img/uploads/bsn-coisasdateca-armarinho.jpg",
       "link": "https://coisasdatecaloja.com.br/armarinho",
-      "title": "Ofertas em Armarinho"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/bannerhomepequenobf.jpg",
-          "link": "https://coisasdatecaloja.com.br/pages/black-november",
-          "alt": "Parcele suas compras em até 6x sem juros no Paypal *",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/colecaobp.jpg",
-          "link": "https://coisasdatecaloja.com.br/colecoes",
-          "alt": "Busque tecidos por coleção",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/armarinho.jpg",
-          "link": "https://coisasdatecaloja.com.br/armarinho",
-          "alt": "Confira a Seção Armarinho",
-          "mobile_img": ""
-        }
-      ]
+      "alt": "Armarinhos com Descontos Especiais, confira"
     },
     {
       "type": "page-title",
@@ -85,6 +59,11 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/bsn-coisasdateca-fretebp.jpg",
+      "link": "https://www.coisasdatecaloja.com.br/pages/promocoes-frete"
     },
     {
       "type": "responsive-banner",
