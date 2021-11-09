@@ -36,7 +36,7 @@
     },
     {
       "type": "page-title",
-      "title": "♥ Ofertas de Novembro ♥",
+      "title": "Em Oferta - Black November ",
       "description": "Tecidos e Armarinho para seu Artesanato"
     },
     {
@@ -87,13 +87,9 @@
       "sort": "news"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "link": "https://coisasdatecaloja.com.br/blog",
-          "img": "/img/uploads/visiteblog.jpg"
-        }
-      ]
+      "type": "responsive-banner",
+      "link": "https://coisasdatecaloja.com.br/blog",
+      "img": "/img/uploads/visiteblog.jpg"
     },
     {
       "type": "info-bar",
