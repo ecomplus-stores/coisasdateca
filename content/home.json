@@ -41,6 +41,16 @@
       "alt": "Black November - Aproveite as Ofertas"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61717ea98f01d31b484eece5:categories:Coleção Felicidade em Flores:/colecao-felicidade-em-flores",
+      "sort": "news",
+      "title": "Coleção Felicidade em Flores",
+      "link": "https://coisasdatecaloja.com.br/colecao-felicidade-em-flores"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "offers"
