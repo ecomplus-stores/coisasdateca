@@ -19,15 +19,6 @@
     {
       "type": "document-description",
       "enabled": true
-    },
-    {
-      "type": "page-title",
-      "title": "Em Oferta - Black November"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
     }
   ]
 }
