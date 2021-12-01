@@ -8,24 +8,17 @@
       "slides": [
         {
           "start": "2021-11-09T02:17:19.063Z",
-          "end": "2021-12-01T03:01:19.316Z",
-          "img": "/img/uploads/sbn-coisasdateca-bf.jpg",
-          "link": "https://coisasdatecaloja.com.br/pages/black-november",
-          "alt": "Descontos Black November - até 70% aproveite!"
+          "end": "",
+          "img": "/img/uploads/slide-colecao-21.png",
+          "link": "https://coisasdatecaloja.com.br/tecidos",
+          "alt": ""
         },
         {
           "start": "2021-11-09T02:21:09.630Z",
           "end": "",
-          "img": "/img/uploads/sbn-coisasdateca-fretegratis.jpg",
+          "img": "/img/uploads/slide-fretegratis-coisasdateca21.png",
           "link": "https://www.coisasdatecaloja.com.br/pages/promocoes-frete",
           "alt": "Enviamos para Todo Brasil, confira as Promoções em Frete "
-        },
-        {
-          "start": "2021-11-09T02:21:33.436Z",
-          "end": "",
-          "img": "/img/uploads/sbn-coisasdateca-colecoes.jpg",
-          "link": "https://coisasdatecaloja.com.br/colecoes",
-          "alt": "Escolha seus Tecidos por Coleções - Confira mais - Parcele suas compras em até 6x sem juros no cartão * "
         }
       ]
     },
@@ -33,12 +26,6 @@
       "type": "responsive-banner",
       "img": "/img/uploads/fachada-tecidos-coisasdateca.png",
       "mobile_img": "/img/uploads/fachadamobileteca.png"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/bsn-coisasdateca-bfs.jpg",
-      "link": "https://coisasdatecaloja.com.br/pages/black-november",
-      "alt": "Black November - Aproveite as Ofertas"
     },
     {
       "type": "collection-shelf",
@@ -69,11 +56,6 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/bsn-coisasdateca-fretebp.jpg",
-      "link": "https://www.coisasdatecaloja.com.br/pages/promocoes-frete"
     },
     {
       "type": "responsive-banner",
