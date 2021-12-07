@@ -33,7 +33,7 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true,
+      "load_more": false,
       "sort": "news"
     },
     {
@@ -60,7 +60,8 @@
       "page": 1,
       "sort": "news",
       "link": "https://coisasdatecaloja.com.br/colecao-felicidade-em-flores",
-      "title": "Coleção Felicidade em Flores"
+      "title": "♥ Coleção Felicidade em Flores ♥ ",
+      "collection_id": "61717ea98f01d31b484eece5:categories:Coleção Felicidade em Flores:/colecao-felicidade-em-flores"
     },
     {
       "type": "collection-shelf",
@@ -69,7 +70,8 @@
       "page": 1,
       "sort": "news",
       "link": "https://coisasdatecaloja.com.br/colecao-ursinhos-marinheiros",
-      "title": "Coleção Ursinhos Marinheiros"
+      "title": "♥ Coleção Ursinhos Marinheiros ♥ ",
+      "collection_id": "616097c228ace502ae9b9fe3:categories:Coleção Ursinhos Marinheiros:/colecao-ursinhos-marinheiros"
     },
     {
       "type": "collection-shelf",
@@ -77,8 +79,9 @@
       "limit": 12,
       "page": 1,
       "link": "https://coisasdatecaloja.com.br/pano-de-prato",
-      "title": "Panos de Prato ",
-      "sort": "news"
+      "title": "♥ Panos de Prato ♥ ",
+      "sort": "news",
+      "collection_id": "60be4c21641ad82fcc223c64:categories:Pano de Prato:/pano-de-prato"
     },
     {
       "type": "responsive-banner",
