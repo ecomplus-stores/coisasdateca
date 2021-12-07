@@ -7,18 +7,18 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2021-11-09T02:17:19.063Z",
-          "end": "",
-          "img": "/img/uploads/slide-colecao-21.png",
-          "link": "https://coisasdatecaloja.com.br/tecidos",
-          "alt": ""
-        },
-        {
           "start": "2021-11-09T02:21:09.630Z",
           "end": "",
-          "img": "/img/uploads/slide-fretegratis-coisasdateca21.png",
+          "img": "/img/uploads/slidenatal21.jpg",
           "link": "https://www.coisasdatecaloja.com.br/pages/promocoes-frete",
           "alt": "Enviamos para Todo Brasil, confira as Promoções em Frete "
+        },
+        {
+          "start": "2021-11-09T02:17:19.063Z",
+          "end": "",
+          "img": "/img/uploads/slide-colecao.jpg",
+          "link": "https://coisasdatecaloja.com.br/tecidos",
+          "alt": ""
         }
       ]
     },
@@ -34,6 +34,50 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
+      "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/trio1.jpg",
+          "link": "https://coisasdatecaloja.com.br/tecidos"
+        },
+        {
+          "img": "/img/uploads/trio3.jpg",
+          "link": "https://coisasdatecaloja.com.br/blog"
+        },
+        {
+          "img": "/img/uploads/trio2.jpg",
+          "link": "https://coisasdatecaloja.com.br/armarinho"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "link": "https://coisasdatecaloja.com.br/colecao-felicidade-em-flores",
+      "title": "Coleção Felicidade em Flores"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "link": "https://coisasdatecaloja.com.br/colecao-ursinhos-marinheiros",
+      "title": "Coleção Ursinhos Marinheiros"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "link": "https://coisasdatecaloja.com.br/pano-de-prato",
+      "title": "Panos de Prato ",
       "sort": "news"
     },
     {
