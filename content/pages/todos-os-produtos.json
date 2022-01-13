@@ -1,0 +1,13 @@
+{
+  "title": "Todos os Produtos",
+  "meta_title": "Confira Todos os Produtos da Loja Coisas da Teca ",
+  "meta_description": "Confira Todos os Produtos da Loja Coisas da Teca , tecidos e armarinho para seu Artesanato ",
+  "body": "Confira Todos os Produtos da Loja Coisas da Teca , tecidos e armarinho para seu Artesanato",
+  "sections": [
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    }
+  ]
+}
