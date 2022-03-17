@@ -7,6 +7,13 @@
       "autoplay": 7000,
       "slides": [
         {
+          "start": "2022-03-17T00:00:07.081Z",
+          "end": "",
+          "img": "/img/uploads/slide-coisasteca.jpg",
+          "alt": "Painel Maleta Fácil Exclusividade Coisas da Teca ",
+          "link": "https://coisasdatecaloja.com.br/painel-maleta-facil-coisas-da-teca"
+        },
+        {
           "start": "2022-01-19T17:34:00.723Z",
           "end": "",
           "img": "/img/uploads/slidespascoa.jpg",
@@ -67,10 +74,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "5ff7a6c569274c73fcf25153:categories:Kit Necessaire:/kitnecessaire",
-      "sort": "lowest_price",
-      "title": "♥ Kit Necessaire ♥",
-      "link": "https://coisasdatecaloja.com.br/kitnecessaire"
+      "collection_id": "622b6f648bd0103c54ee6261:categories:Coleção Dolce Vita Limão:/colecao-dolce-vita-limao",
+      "sort": "sales",
+      "title": "♥ Coleção Dolce Vita  ♥",
+      "link": "https://coisasdatecaloja.com.br/colecao-dolce-vita-limao"
     },
     {
       "type": "collection-shelf",
@@ -88,9 +95,9 @@
       "limit": 12,
       "page": 1,
       "sort": "news",
-      "link": "https://coisasdatecaloja.com.br/colecao-renata-blanco",
-      "title": "♥ Tecidos Coleção Renata Blanco   ♥ ",
-      "collection_id": "61c38cb60c7c727225dcf625:categories:Coleção Renata Blanco:/colecao-renata-blanco"
+      "link": "https://coisasdatecaloja.com.br/colecao-fiesta",
+      "title": "♥  Coleção Fiesta   ♥ ",
+      "collection_id": "622b53808bd0103c54ee09fb:categories:Coleção Fiesta:/colecao-fiesta"
     },
     {
       "type": "collection-shelf",
@@ -101,11 +108,6 @@
       "title": "♥ Panos de Prato ♥ ",
       "sort": "news",
       "collection_id": "60be4c21641ad82fcc223c64:categories:Pano de Prato:/pano-de-prato"
-    },
-    {
-      "type": "responsive-banner",
-      "link": "https://coisasdatecaloja.com.br/blog",
-      "img": "/img/uploads/visiteblog.jpg"
     },
     {
       "type": "info-bar",
