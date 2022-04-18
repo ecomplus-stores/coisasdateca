@@ -14,13 +14,6 @@
           "link": "https://coisasdatecaloja.com.br/painel-maleta-facil-coisas-da-teca"
         },
         {
-          "start": "2022-01-19T17:34:00.723Z",
-          "end": "",
-          "img": "/img/uploads/slidespascoa.jpg",
-          "alt": "A Coleção Páscoa já chegou na Coisas da Teca, para seu artesanato!",
-          "link": "https://coisasdatecaloja.com.br/colecao-pascoa"
-        },
-        {
           "start": "2021-11-09T02:21:09.630Z",
           "end": "",
           "img": "/img/uploads/frete.jpg",
@@ -78,16 +71,6 @@
       "sort": "sales",
       "title": "♥ Coleção Dolce Vita  ♥",
       "link": "https://coisasdatecaloja.com.br/colecao-dolce-vita-limao"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "link": "https://coisasdatecaloja.com.br/colecao-pascoa",
-      "title": "♥ Coleção Páscoa ♥ ",
-      "collection_id": "61e0975a0c7c7272250811f6:categories:Coleção Páscoa:/colecao-pascoa"
     },
     {
       "type": "collection-shelf",
