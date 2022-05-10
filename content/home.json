@@ -67,10 +67,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "622b6f648bd0103c54ee6261:categories:Coleção Dolce Vita Limão:/colecao-dolce-vita-limao",
-      "sort": "sales",
-      "title": "♥ Coleção Dolce Vita  ♥",
-      "link": "https://coisasdatecaloja.com.br/colecao-dolce-vita-limao"
+      "collection_id": "5f19eb5314ff772fde81d807:categories:Geométrico:/tecido-estampa-geometrico",
+      "sort": "news",
+      "title": "Tecidos Estampas Geométricas",
+      "link": "https://coisasdatecaloja.com.br/tecido-estampa-geometrico"
     },
     {
       "type": "collection-shelf",
@@ -78,19 +78,19 @@
       "limit": 12,
       "page": 1,
       "sort": "news",
-      "link": "https://coisasdatecaloja.com.br/colecao-fiesta",
-      "title": "♥  Coleção Fiesta   ♥ ",
-      "collection_id": "622b53808bd0103c54ee09fb:categories:Coleção Fiesta:/colecao-fiesta"
+      "link": "https://coisasdatecaloja.com.br/armarinho",
+      "title": "♥  Para você Criar - Confira a seção Armarinho    ♥ ",
+      "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "link": "https://coisasdatecaloja.com.br/pano-de-prato",
-      "title": "♥ Panos de Prato ♥ ",
+      "link": "https://coisasdatecaloja.com.br/tecidos-estampa-animais",
+      "title": "♥ Tecidos Cute Animais , vem conferir  ♥ ",
       "sort": "news",
-      "collection_id": "60be4c21641ad82fcc223c64:categories:Pano de Prato:/pano-de-prato"
+      "collection_id": "5f19eb4b14ff772fde81d7f5:categories:Animais:/tecidos-estampa-animais"
     },
     {
       "type": "info-bar",
