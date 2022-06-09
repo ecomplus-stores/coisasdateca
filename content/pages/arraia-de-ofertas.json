@@ -1,0 +1,25 @@
+{
+  "title": "Arraia de Ofertas ",
+  "meta_title": "Arraia de Ofertas na Coisas da Teca - Tecidos e Armarinho para seu Artesanato",
+  "meta_description": "Arraia de Ofertas na Coisas da Teca - Tecidos e Armarinho para seu Artesanato",
+  "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-06-09T16:05:36.396Z",
+          "end": "",
+          "img": "/img/uploads/arraia-slidepagina.jpg"
+        }
+      ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    }
+  ],
+  "body": "Tecidos e Armarinhos com até 70% de desconto no Arraia de Ofertas da Coisas da Teca."
+}
