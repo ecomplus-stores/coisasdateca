@@ -7,6 +7,12 @@
       "autoplay": 7000,
       "slides": [
         {
+          "start": "2022-06-10T19:36:31.350Z",
+          "end": "",
+          "img": "/img/uploads/arraia-slide.jpg",
+          "link": "https://coisasdatecaloja.com.br/pages/arraia-de-ofertas"
+        },
+        {
           "start": "2022-03-17T00:00:07.081Z",
           "end": "",
           "img": "/img/uploads/slide-coisasteca.jpg",
@@ -26,12 +32,6 @@
           "img": "/img/uploads/armarinho-2022.jpg",
           "link": "https://coisasdatecaloja.com.br/pages/todos-os-produtos",
           "alt": ""
-        },
-        {
-          "start": "2022-06-10T19:36:31.350Z",
-          "end": "",
-          "img": "/img/uploads/arraia-slide.jpg",
-          "link": "https://coisasdatecaloja.com.br/pages/arraia-de-ofertas"
         }
       ],
       "full_width": true
@@ -42,13 +42,15 @@
       "mobile_img": "/img/uploads/fachadamobileteca.png"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "title": "Arraiá de Ofertas - vem aproveitar",
-      "link": "https://coisasdatecaloja.com.br/pages/arraia-de-ofertas"
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-arrai-home-ofertas.jpg",
+      "link": "https://coisasdatecaloja.com.br/pages/arraia-de-ofertas",
+      "alt": "Aproveite descontos de até 70% em tecidos e armarinho para seu artesanato"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
     },
     {
       "type": "page-title",
