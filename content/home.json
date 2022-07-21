@@ -41,16 +41,6 @@
       "mobile_img": ""
     },
     {
-      "type": "page-title",
-      "title": "♥  Novidades na Loja ♥ ",
-      "description": ""
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -59,6 +49,16 @@
       "title": "Destaques da Semana",
       "sort": "views",
       "collection_id": "62a21d52ac0cb4200f0e1494:collections:Destaques:/destaques-da-semana"
+    },
+    {
+      "type": "page-title",
+      "title": "♥  Novidades na Loja ♥ ",
+      "description": ""
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     },
     {
       "type": "responsive-banner",
