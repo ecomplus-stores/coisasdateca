@@ -38,7 +38,7 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/cupom-especial-desktop.jpg",
-      "mobile_img": "/img/uploads/cupom-especial-mobile.jpg"
+      "mobile_img": ""
     },
     {
       "type": "page-title",
