@@ -36,6 +36,11 @@
       "mobile_img": "/img/uploads/fachadamobileteca.png"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/cupom-especial-desktop.jpg",
+      "mobile_img": "/img/uploads/cupom-especial-mobile.jpg"
+    },
+    {
       "type": "page-title",
       "title": "♥  Novidades na Loja ♥ ",
       "description": "Use o cupom: PRIMEIRACOMPRA e garanta 6% em seu pedido. "
@@ -56,32 +61,21 @@
       "collection_id": "62a21d52ac0cb4200f0e1494:collections:Destaques:/destaques-da-semana"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/trio1.jpg",
-          "link": "https://coisasdatecaloja.com.br/pages/todos-os-produtos",
-          "alt": "Confira Todos os Produtos"
-        },
-        {
-          "img": "/img/uploads/trio3.jpg",
-          "link": "https://coisasdatecaloja.com.br/blog"
-        },
-        {
-          "img": "/img/uploads/trio2.jpg",
-          "link": "https://coisasdatecaloja.com.br/armarinho"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "5f19eb5314ff772fde81d807:categories:Geométrico:/tecido-estampa-geometrico",
-      "sort": "news",
-      "title": "Tecidos Estampas Geométricas",
-      "link": "https://coisasdatecaloja.com.br/tecido-estampa-geometrico"
+      "collection_id": null,
+      "sort": "sales",
+      "title": "♥ Os queridinhos ♥  ",
+      "link": ""
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/armarinho.jpg",
+      "mobile_img": "/img/uploads/armarinho-mobile-home.jpg",
+      "link": "https://coisasdatecaloja.com.br/armarinho",
+      "alt": "Confira nossa seção de  Armarinho - Envio para Todo Brasil "
     },
     {
       "type": "collection-shelf",
@@ -98,10 +92,28 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "link": "https://coisasdatecaloja.com.br/tecidos-estampa-animais",
-      "title": "♥ Tecidos Cute Animais , vem conferir  ♥ ",
+      "link": "https://coisasdatecaloja.com.br/vies",
+      "title": "♥ Viés - confira todos  ♥ ",
       "sort": "news",
-      "collection_id": "5f19eb4b14ff772fde81d7f5:categories:Animais:/tecidos-estampa-animais"
+      "collection_id": "5f375855f023684cdbda83ad:categories:Viés:/vies"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/trio1.jpg",
+          "link": "https://coisasdatecaloja.com.br/pages/todos-os-produtos",
+          "alt": "Confira Todos os Produtos"
+        },
+        {
+          "img": "/img/uploads/trio3.jpg",
+          "link": "https://coisasdatecaloja.com.br/blog"
+        },
+        {
+          "img": "/img/uploads/trio2.jpg",
+          "link": "https://coisasdatecaloja.com.br/armarinho"
+        }
+      ]
     },
     {
       "type": "info-bar",
