@@ -61,6 +61,13 @@
       "collection_id": "62a21d52ac0cb4200f0e1494:collections:Destaques:/destaques-da-semana"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/tecidos-home.jpg",
+      "link": "https://coisasdatecaloja.com.br/tecidos",
+      "mobile_img": "/img/uploads/tecidos1.jpg",
+      "alt": "Tecidos de Algodão para seu Artesanato , veja mais "
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
