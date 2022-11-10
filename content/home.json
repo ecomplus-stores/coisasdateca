@@ -46,10 +46,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "link": "https://coisasdatecaloja.com.br/destaques-da-semana",
+      "link": "https://coisasdatecaloja.com.br/pages/black-november",
       "title": "Destaques da Semana",
-      "sort": "views",
-      "collection_id": "62a21d52ac0cb4200f0e1494:collections:Destaques:/destaques-da-semana"
+      "sort": "offers",
+      "collection_id": null
     },
     {
       "type": "page-title",
