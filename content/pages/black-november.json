@@ -4,15 +4,10 @@
   "meta_description": "Descontos Imperdíveis de Tecidos e Armarinho na Coisas da Teca",
   "sections": [
     {
-      "type": "page-title",
-      "title": "Aproveite os Descontos Black November da Coisas da Teca",
-      "description": ""
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "offers"
     }
   ],
-  "body": "##"
+  "body": "Aproveite os Descontos Black November da Coisas da Teca"
 }
