@@ -7,6 +7,16 @@
     "type": 301
   },
   {
+    "source": "/pages/arraia-de-ofertas",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/pages/black-november",
+    "destination": "/",
+    "type": 301
+  },
+  {
     "source": "/painel-digital-colecao-minnie-borboletas",
     "destination": "/disney",
     "type": 301
