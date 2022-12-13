@@ -1,6 +1,7 @@
 {
   "domain": "coisasdatecaloja.com.br",
   "currency_symbol": "R$",
+  "repository": "ecomplus-stores/coisasdateca",
   "primary_color": "#242424",
   "theme": {
     "bootswatch": "_",
