@@ -1,0 +1,21 @@
+{
+  "title": "Em Oferta ",
+  "meta_title": "Ofertas Coisas da Teca - Tecidos e Armarinhos para Artesanato",
+  "meta_description": "Ofertas Coisas da Teca - Tecidos e Armarinhos para Artesanato",
+  "body": "Ofertas Coisas da Teca - Tecidos e Armarinhos para Artesanato, confira",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
