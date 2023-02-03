@@ -7,6 +7,14 @@
       "autoplay": 7000,
       "slides": [
         {
+          "start": "2023-02-03T15:46:06.953Z",
+          "end": "",
+          "img": "/img/uploads/__live-especial.webp",
+          "mobile_img": "/img/uploads/__mobilelive.webp",
+          "link": "https://www.instagram.com/coisasdateca/",
+          "alt": "Live no Instagram, te esperamos!"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/slide-coisasteca.jpg",
