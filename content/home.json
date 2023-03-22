@@ -22,9 +22,9 @@
           "link": "https://coisasdatecaloja.com.br/painel-maleta-facil-coisas-da-teca"
         },
         {
-          "start": "2021-11-09T02:21:09.630Z",
+          "start": "2023-03-22T20:23:07.688Z",
           "end": "",
-          "img": "/img/uploads/frete.jpg",
+          "img": "/img/uploads/frete-slide.png",
           "link": "https://www.coisasdatecaloja.com.br/pages/promocoes-frete",
           "alt": "Enviamos para Todo Brasil, confira as Promoções em Frete "
         },
@@ -45,9 +45,30 @@
       "link": "https://coisasdatecaloja.com.br/blog"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/nas-redes.png",
+          "link": "https://coisasdatecaloja.com.br/nas-redes"
+        },
+        {
+          "img": "/img/uploads/destaques.png",
+          "link": "https://coisasdatecaloja.com.br/destaques-da-semana"
+        },
+        {
+          "img": "/img/uploads/descontos.png",
+          "link": "https://coisasdatecaloja.com.br/pages/em-oferta"
+        },
+        {
+          "img": "/img/uploads/kits-tecidos.png",
+          "link": "https://coisasdatecaloja.com.br/kit-tecidos"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
-      "img": "/img/uploads/cupom-especial-desktop.jpg",
-      "mobile_img": ""
+      "img": "/img/uploads/cupom-primeira-compra.png",
+      "mobile_img": "/img/uploads/cupom-primeira-mobile.png"
     },
     {
       "type": "collection-shelf",
@@ -55,14 +76,13 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62a21d52ac0cb4200f0e1494:collections:Destaques:/destaques-da-semana",
-      "sort": "news",
+      "sort": "views",
       "link": "https://coisasdatecaloja.com.br/destaques-da-semana",
       "title": "♥ Os queridinhos do mês ♥ "
     },
     {
-      "type": "page-title",
-      "title": "♥  Novidades na Loja ♥ ",
-      "description": ""
+      "type": "custom-content",
+      "markdown": "<h4 class=\"products-carousel__title\">♥ Novidades da Loja ♥</h4>"
     },
     {
       "type": "dynamic-showcase",
@@ -71,9 +91,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/tecidos-home.jpg",
+      "img": "/img/uploads/tecidos.png",
       "link": "https://coisasdatecaloja.com.br/tecidos",
-      "mobile_img": "/img/uploads/tecidos1.jpg",
+      "mobile_img": "/img/uploads/tecidos-mobile.png",
       "alt": "Tecidos de Algodão para seu Artesanato , veja mais "
     },
     {
@@ -88,8 +108,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/armarinho.jpg",
-      "mobile_img": "/img/uploads/armarinho-mobile-home.jpg",
+      "img": "/img/uploads/armarinho.png",
+      "mobile_img": "/img/uploads/armarinho-mobile.png",
       "link": "https://coisasdatecaloja.com.br/armarinho",
       "alt": "Confira nossa seção de  Armarinho - Envio para Todo Brasil "
     },
@@ -117,17 +137,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/trio1.jpg",
+          "img": "/img/uploads/variedade-de-estampas.png",
           "link": "https://coisasdatecaloja.com.br/pages/todos-os-produtos",
           "alt": "Confira Todos os Produtos"
         },
         {
-          "img": "/img/uploads/trio3.jpg",
+          "img": "/img/uploads/youtube.png",
           "link": "https://coisasdatecaloja.com.br/blog"
         },
         {
-          "img": "/img/uploads/trio2.jpg",
-          "link": "https://coisasdatecaloja.com.br/armarinho"
+          "img": "/img/uploads/frete-gratis.png",
+          "link": "https://coisasdatecaloja.com.br/pages/promocoes-frete"
         }
       ]
     },
