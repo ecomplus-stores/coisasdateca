@@ -7,21 +7,6 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2023-02-03T19:12:29.527Z",
-          "end": "",
-          "img": "/img/uploads/__slide1.webp",
-          "link": "https://coisasdatecaloja.com.br/kit-painel-necessaire-alegria",
-          "alt": "Kit Painel Necessaire Alegria Coisas da Teca",
-          "mobile_img": ""
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/slide-coisasteca.jpg",
-          "alt": "Painel Maleta Fácil Exclusividade Coisas da Teca ",
-          "link": "https://coisasdatecaloja.com.br/painel-maleta-facil-coisas-da-teca"
-        },
-        {
           "start": "2023-03-22T20:23:07.688Z",
           "end": "",
           "img": "/img/uploads/frete-slide.png",
@@ -29,11 +14,12 @@
           "alt": "Enviamos para Todo Brasil, confira as Promoções em Frete "
         },
         {
-          "start": "2021-11-09T02:17:19.063Z",
+          "start": "2023-02-03T19:12:29.527Z",
           "end": "",
-          "img": "/img/uploads/armarinho-2022.jpg",
-          "link": "https://coisasdatecaloja.com.br/pages/todos-os-produtos",
-          "alt": ""
+          "img": "/img/uploads/__slide1.webp",
+          "link": "https://coisasdatecaloja.com.br/kit-painel-necessaire-alegria",
+          "alt": "Kit Painel Necessaire Alegria Coisas da Teca",
+          "mobile_img": ""
         }
       ],
       "full_width": true
