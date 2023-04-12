@@ -63,10 +63,6 @@
       "title": "♥ Os queridinhos do mês ♥ "
     },
     {
-      "type": "custom-content",
-      "markdown": "<h4 class=\"products-carousel__title\">♥ Novidades da Loja ♥</h4>"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
