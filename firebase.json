@@ -476,8 +476,7 @@
     "type": 301
   },
   {
-    "source":
-      "/tecido-nacional-colecao-turma-da-monica-onomatopeia-monica-e-magali",
+    "source":"/tecido-nacional-colecao-turma-da-monica-onomatopeia-monica-e-magali",
     "destination": "/turma-da-monica",
     "type": 301
   },
@@ -718,7 +717,435 @@
     "source": "/fecho-de-ima-verde-agua-niquelado",
     "destination": "/armarinho",
     "type": 301
-  }],
+  },
+  {
+    "source": "/tecido-matelassado-sarja-caramelo-flor-de-lotus",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/tecido-nacional-colecao-picnic-formiga",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/tecido-nacional-colecao-casinha-fundo-verde",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/marca/10012&key=10012",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/tecido-nacional-colecao-rosinhas-na-moldura-creme",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/tecido-nacional-colecao-ramo-de-flores",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/tecido-nacional-colecao-olho-grego-amuleto-50cm",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/tecido-matelassado-sarja-caramelo-flor-de-lotus",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/marca/10052",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "regex": "/busca?b=*",
+    "destination": "/search?term=*",
+    "type": 301
+},
+{
+    "source": "/tecido-estampa-poa/",
+    "destination": "/tecido-estampa-poa",
+    "type": 301
+},
+{
+    "source": "/tecido-estampa-frutas/",
+    "destination": "/tecido-estampa-frutas",
+    "type": 301
+},
+{
+    "source": "/p_736",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+
+
+{
+    "source": "/tecido-estampa-estrela/",
+    "destination": "/tecido-estampa-estrela",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=210&presentes=1",
+    "destination": "/tecidos",
+    "type": 301
+}
+    "source": "/scripts/adicionar-favorito?i=914&presentes=1",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=679&presentes=1",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=679",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/10028",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/_779",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/_482",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/_535",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/ofertas",
+    "destination": "/pages/em-oferta",
+    "type": 301
+},
+{
+    "source": "/_739",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/_831",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/pagina/promocoes-especiais",
+    "destination": "/pages/em-oferta",
+    "type": 301
+},
+{
+    "source": "/tecido-nacional-colecao-viva-mexico-caveira-mexicana",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/10038",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/sitemap",
+    "destination": "/sitemap.xml",
+    "type": 301
+},
+{
+    "source": "/_556",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/pagina/sobre",
+    "destination": "/pages/sobre-nos",
+    "type": 301
+},{
+    "source": "/10020",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/10048",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/carrinho",
+    "destination": "/app/#/cart",
+    "type": 301
+},
+{
+    "source": "/_592",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/10001",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/10010",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/10026",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/_536",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/10045",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/tecido-nacional-colecao-geometrico-candy-colors",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=970",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=641",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=970&presentes=1",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=365&presentes=1",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=104",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/10047",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/_238",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/tecido-nacional-colecao-geometrico-indira",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/10012",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/_723",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+
+
+{
+    "source": "/aulas-online",
+    "destination": "/blog",
+    "type": 301
+},
+{
+    "source": "/tecido-nacional-colecao-neutro-azul",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/10036",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/10030",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/10005",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/10003",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/tecido-nacional-colecao-mandalas-fundo-verde-agua",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/_vcounter?_id=6818&odID=10e8cd5047f4c11ec035489170388aeb",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/_1063",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/10027",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/kit-de-tecidos-colore",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/_593",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=131",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/cadastrar",
+    "destination": "/app/#/account/",
+    "type": 301
+},
+{
+    "source": "/10013",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/_574",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=113&presentes=1",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=1278",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/_411",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=392",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=756",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=686&presentes=1",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=1020",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/_594",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=1020&presentes=1",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/10002",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/tecido-colecao-galinhas-coloridas",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/scripts/adicionar-favorito?i=297&presentes=1",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/tecido-nacional-colecao-tricoline-metalizado-dourado",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/entrar?c=2",
+    "destination": "/app/#/account/",
+    "type": 301
+},
+{
+    "source": "/tecido-nacional-colecao-micro-floral-garden",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/_1234",
+    "destination": "/pages/todos-os-produtos",
+    "type": 301
+},
+{
+    "source": "/tecido-nacional-colecao-alegria-marrom",
+    "destination": "/tecidos",
+    "type": 301
+},
+{
+    "source": "/_929",
+    "destination": "https://coisasdatecaloja.com.br/pages/todos-os-produtos",
+    "type": 301
+}
+    ],
     "public": "dist",
     "ignore": [
       "firebase.json",
