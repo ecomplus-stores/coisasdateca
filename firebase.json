@@ -764,7 +764,7 @@
     "type": 301
 },
 {
-    "regex": "/busca?b=*",
+    "regex": "/busca*",
     "destination": "/search",
     "type": 301
 },
