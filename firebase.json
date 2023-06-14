@@ -794,8 +794,9 @@
     "source": "/scripts/adicionar-favorito?i=210&presentes=1",
     "destination": "/tecidos",
     "type": 301
-}
-    "source": "/scripts/adicionar-favorito?i=914&presentes=1",
+},
+{
+    "regex": "/scripts/adicionar-favorito*",
     "destination": "/tecidos",
     "type": 301
 },
