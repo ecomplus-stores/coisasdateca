@@ -765,7 +765,7 @@
 },
 {
     "regex": "/busca?b=*",
-    "destination": "/search?term=*",
+    "destination": "/search",
     "type": 301
 },
 {
@@ -1111,7 +1111,7 @@
     "type": 301
 },
 {
-    "source": "/scripts/adicionar-favorito?i=297&presentes=1",
+    "source": "/scripts/adicionar-favorito*",
     "destination": "/tecidos",
     "type": 301
 },
@@ -1121,7 +1121,7 @@
     "type": 301
 },
 {
-    "source": "/entrar?c=2",
+    "source": "/entrar*",
     "destination": "/app/#/account/",
     "type": 301
 },
