@@ -58,7 +58,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62a21d52ac0cb4200f0e1494:collections:Destaques:/destaques-da-semana",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://coisasdatecaloja.com.br/destaques-da-semana",
       "title": "♥ Os queridinhos do mês ♥ "
     },
@@ -108,7 +108,7 @@
       "page": 1,
       "link": "https://coisasdatecaloja.com.br/vies",
       "title": "♥ Mais de Armarinho - vem conferir  ♥ ",
-      "sort": "sales",
+      "sort": "news",
       "collection_id": "5f375855f023684cdbda83ad:categories:Viés:/vies"
     },
     {
