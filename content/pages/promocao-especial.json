@@ -15,8 +15,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/ofertas_chuva-de-cores-coisas-da-teca.webp",
-          "alt": "Promoção Chuva de Cores"
+          "img": "/img/uploads/__promo-julho-coisasdateca.webp",
+          "alt": "Promoção Chuva de Cores",
+          "mobile_img": "/img/uploads/__mobile-page.webp"
         }
       ]
     },
