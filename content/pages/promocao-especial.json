@@ -1,0 +1,68 @@
+{
+  "title": "Promoção Especial ",
+  "body": "## **Promoção Chuva de Cores**\n\nAproveite nossa **Promoção com até 60% OFF** em tecidos e armarinho para o seu artesanato. Por tempo limitado! \n\nNa Coisas da Teca, garantimos envio rápido e seguro.",
+  "meta_description": "Aproveite nossa Promoção com até 60% OFF em tecidos e armarinho para o seu artesanato. Tempo limitado! Na Coisas da Teca, garantimos envio rápido e seguro. ",
+  "meta_title": "Promoção Chuva de Cores",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ofertas_chuva-de-cores-coisas-da-teca.webp",
+          "alt": "Promoção Chuva de Cores"
+        }
+      ]
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64a877f45e6069037059668c:collections:Branco:/branco-tecidos-armarinho",
+      "sort": "offers",
+      "link": "https://coisasdatecaloja.com.br/branco-tecidos-armarinho",
+      "title": "O Branco da Paz combine com tudo para seu artesanato, veja mais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64a8772c5e60690370596581:collections:Amarelo:/amarelo-tecidos-armarinho",
+      "sort": "offers",
+      "title": "Amarelo é Alegria, costura criativa pede um tecido amarelo, vem conferir",
+      "link": "https://coisasdatecaloja.com.br/amarelo-tecidos-armarinho"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64a877595e606903705965b4:collections:Lilás:/lilas-tecidos-armarinho",
+      "sort": "offers",
+      "title": "Lilás , cor da ternura, seu artesanato vai ficar lindo, aproveite as ofertas",
+      "link": "https://coisasdatecaloja.com.br/lilas-tecidos-armarinho"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64a876c35e6069037059652a:collections:Azul:/azul-tecidos-armarinho",
+      "sort": "offers",
+      "title": "Azul, várias tonalidades para você criar peças incríveis. Vem ver!",
+      "link": "https://coisasdatecaloja.com.br/azul-tecidos-armarinho"
+    }
+  ]
+}
