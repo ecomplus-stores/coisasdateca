@@ -31,7 +31,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "64a877f45e6069037059668c:collections:Branco:/branco-tecidos-armarinho",
-      "sort": "offers",
+      "sort": "views",
       "link": "https://coisasdatecaloja.com.br/branco-tecidos-armarinho",
       "title": "O Branco da Paz combine com tudo para seu artesanato, veja mais"
     },
@@ -41,7 +41,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "64a8772c5e60690370596581:collections:Amarelo:/amarelo-tecidos-armarinho",
-      "sort": "offers",
+      "sort": "sales",
       "title": "Amarelo é Alegria, costura criativa pede um tecido amarelo, vem conferir",
       "link": "https://coisasdatecaloja.com.br/amarelo-tecidos-armarinho"
     },
@@ -71,7 +71,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "64a877ae5e6069037059663a:collections:Rosa:/rosa-tecidos-armarinho",
-      "sort": "offers",
+      "sort": "views",
       "title": "Rosa, peças delicadas e criativas , confira os tecidos disponíveis em oferta!",
       "link": "https://coisasdatecaloja.com.br/rosa-tecidos-armarinho"
     },
@@ -101,7 +101,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "64a877825e606903705965fc:collections:Vermelho:/vermelho-tecidos-armarinho",
-      "sort": "offers",
+      "sort": "sales",
       "link": "https://coisasdatecaloja.com.br/vermelho-tecidos-armarinho",
       "title": "Vermelho, Cor do Amor. Veja as ofertas"
     }
