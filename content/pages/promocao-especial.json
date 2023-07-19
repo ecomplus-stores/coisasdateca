@@ -30,58 +30,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "64a877f45e6069037059668c:collections:Branco:/branco-tecidos-armarinho",
-      "sort": "sales",
-      "link": "https://coisasdatecaloja.com.br/branco-tecidos-armarinho",
-      "title": "O Branco da Paz combine com tudo para seu artesanato, veja mais"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "64a876c35e6069037059652a:collections:Azul:/azul-tecidos-armarinho",
-      "sort": "offers",
-      "title": "Azul, várias tonalidades para você criar peças incríveis. Vem ver!",
-      "link": "https://coisasdatecaloja.com.br/azul-tecidos-armarinho"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "64a8772c5e60690370596581:collections:Amarelo:/amarelo-tecidos-armarinho",
-      "sort": "views",
-      "title": "Amarelo é Alegria, costura criativa pede um tecido amarelo, vem conferir",
-      "link": "https://coisasdatecaloja.com.br/amarelo-tecidos-armarinho"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "64a877595e606903705965b4:collections:Lilás:/lilas-tecidos-armarinho",
-      "sort": "sales",
-      "title": "Lilás , cor da ternura, seu artesanato vai ficar lindo, aproveite as ofertas",
-      "link": "https://coisasdatecaloja.com.br/lilas-tecidos-armarinho"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "64ac899d5e606903705daf68:collections:Coloridos:/tecidos-coloridos",
-      "sort": "sales",
-      "link": "https://coisasdatecaloja.com.br/tecidos-coloridos",
-      "title": "Coloridos diversos, aproveite! "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "64a877ae5e6069037059663a:collections:Rosa:/rosa-tecidos-armarinho",
-      "sort": "sales",
+      "sort": "news",
       "title": "Rosa, peças delicadas e criativas , confira os tecidos disponíveis em oferta!",
       "link": "https://coisasdatecaloja.com.br/rosa-tecidos-armarinho"
     },
@@ -91,7 +41,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "64a876f35e60690370596558:collections:Verde:/verde-tecidos-armarinho",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://coisasdatecaloja.com.br/verde-tecidos-armarinho",
       "title": "Verde, a cor da Esperança. Confira os tecidos em oferta!"
     },
@@ -100,8 +50,58 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "64a877f45e6069037059668c:collections:Branco:/branco-tecidos-armarinho",
+      "sort": "news",
+      "link": "https://coisasdatecaloja.com.br/branco-tecidos-armarinho",
+      "title": "O Branco da Paz combine com tudo para seu artesanato, veja mais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64a876c35e6069037059652a:collections:Azul:/azul-tecidos-armarinho",
+      "sort": "views",
+      "title": "Azul, várias tonalidades para você criar peças incríveis. Vem ver!",
+      "link": "https://coisasdatecaloja.com.br/azul-tecidos-armarinho"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64a8772c5e60690370596581:collections:Amarelo:/amarelo-tecidos-armarinho",
+      "sort": "news",
+      "title": "Amarelo é Alegria, costura criativa pede um tecido amarelo, vem conferir",
+      "link": "https://coisasdatecaloja.com.br/amarelo-tecidos-armarinho"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64a877595e606903705965b4:collections:Lilás:/lilas-tecidos-armarinho",
+      "sort": "views",
+      "title": "Lilás , cor da ternura, seu artesanato vai ficar lindo, aproveite as ofertas",
+      "link": "https://coisasdatecaloja.com.br/lilas-tecidos-armarinho"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64ac899d5e606903705daf68:collections:Coloridos:/tecidos-coloridos",
+      "sort": "views",
+      "link": "https://coisasdatecaloja.com.br/tecidos-coloridos",
+      "title": "Coloridos diversos, aproveite! "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "64a878215e606903705966d2:collections:Preto:/preto-tecidos-armarinho",
-      "sort": "offers",
+      "sort": "views",
       "link": "https://coisasdatecaloja.com.br/preto-tecidos-armarinho",
       "title": "Tecidos Pretos e Cinzas, combinações estilosas para suas confecções, vem conferir"
     },
@@ -121,7 +121,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "64ac14f25e606903705c89d8:collections:Marrom:/marrom-tecidos-armarinho",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://coisasdatecaloja.com.br/marrom-tecidos-armarinho",
       "title": "Tecidos Tons de Marrom - veja aqui"
     },
@@ -131,7 +131,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "64ac14d15e606903705c894c:collections:Laranja:/laranja-tecidos-armarinho",
-      "sort": "offers",
+      "sort": "views",
       "link": "https://coisasdatecaloja.com.br/laranja-tecidos-armarinho",
       "title": "Tecidos Laranjas - vem ver "
     }
