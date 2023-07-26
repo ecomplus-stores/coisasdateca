@@ -295,57 +295,39 @@
     "source": "/alca-para-clutch-carteira-tifanny-niquelado",
     "destination": "/alcas",
     "type": 301
-  },
-
-  {
+  },  {
     "source": "/alca-para-clutch-carteira-vermelho-niquelado",
     "destination": "/alcas",
     "type": 301
-  },
-
-  {
+  },  {
     "source": "/alca-para-clutch-carteira-fucsia-niquelado",
     "destination": "/alcas",
     "type": 301
-  },
-
-  {
+  },  {
     "source": "/alca-para-clutch-carteira-lilas-niquelado",
     "destination": "/alcas",
     "type": 301
-  },
-
-  {
+  },  {
     "source": "/alca-para-clutch-carteira-marinho-niquelado",
     "destination": "/alcas",
     "type": 301
-  },
-
-  {
+  },  {
     "source": "/alca-para-clutch-carteira-cru-niquelado",
     "destination": "/alcas",
     "type": 301
-  },
-
-  {
+  },  {
     "source": "/alca-para-clutch-carteira-roxo-niquelado",
     "destination": "/alcas",
     "type": 301
-  },
-
-  {
+  },  {
     "source": "/alca-para-clutch-carteira-azul-indigo-niquelado",
     "destination": "/alcas",
     "type": 301
-  },
-
-  {
+  },  {
     "source": "/alca-para-clutch-carteira-verde-escuro-niquelado",
     "destination": "/alcas",
     "type": 301
-  },
-
-  {
+  },  {
     "source": "/alca-para-clutch-carteira-verde-folha-niquelado",
     "destination": "/alcas",
     "type": 301
@@ -499,9 +481,7 @@
     "source": "/tecido-nacional-colecao-turma-da-monica-fundo-vermelho",
     "destination": "/turma-da-monica",
     "type": 301
-  },
-
-  {
+  },  {
     "source": "/tecido-nacional-colecao-neutro-tons-rosa",
     "destination": "/tecido-neutro-tom-tom",
     "type": 301
@@ -560,9 +540,7 @@
     "source": "/tecido-nacional-colecao-natural-beauty-listrado",
     "destination": "/tecido-listrado",
     "type": 301
-  },
-
-  {
+  },  {
     "source": "/tecido-nacional-colecao-natural-beauty-azul",
     "destination": "/busque-por-temas",
     "type": 301
@@ -611,9 +589,7 @@
     "source": "/tecido-nacional-colecao-sereia",
     "destination": "/busque-por-temas",
     "type": 301
-  },
-
-  {
+  },  {
     "source": "/p_736",
     "destination": "/busque-por-temas",
     "type": 301
@@ -783,8 +759,6 @@
     "destination": "/pages/todos-os-produtos",
     "type": 301
 },
-
-
 {
     "source": "/tecido-estampa-estrela/",
     "destination": "/tecido-estampa-estrela",
@@ -974,8 +948,6 @@
     "destination": "/pages/todos-os-produtos",
     "type": 301
 },
-
-
 {
     "source": "/aulas-online",
     "destination": "/blog",
@@ -1145,8 +1117,2915 @@
     "source": "/_929",
     "destination": "https://coisasdatecaloja.com.br/pages/todos-os-produtos",
     "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-camuflados-fabricart-camuflado-deserto",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-caveiras-fabricart-caveiras-mexicanas-e-flores",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-maca-fundo-escuro",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/aula-exclusiva-online-bolsa-karina",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/kit-de-tecidos-floresta-encantada",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-gato-e-panda",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-lhama-e-cacto",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{        "source": "/manta-acrilica-r1",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-peppa-e-monica",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+  "source": "/manta-acrilica-r2-estilotex-colante-dos-dois-lados",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/kit-de-tecidos-lapis-e-giz",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-estampa-floral",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-colecao-turma-da-monica-astronautas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-colecao-turma-da-monica-rostinhos-bidu",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-turma-da-monica-cascao-fundo-laranja",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-fazenda",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{        "source": "/p_992",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/p_481",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/aula-exclusiva-online-mochila",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-disney-princesas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-costura",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-corujas-e-jardineira",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/kit-de-tecidos-londres",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-estrelas",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-santo-antonio",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/kit-de-tecidos-family",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-bee",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-arabesque-pink",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/kit-de-tecidos-nuvem",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-folhas",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-tucano",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-poeira-azul-noturno",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-planetas",
+  "destination": "/kit-tecidos",
+  "type": 301
+},{
+  "source": "/tecido-nacional-colecao-poa-cafe",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/kit-de-tecidos-florzinhas",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+"source": "/p_785",
+  "destination": "/tecidos",
+  "type": 301
+},{
+  "source": "/kit-de-tecidos-jolie",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{        "source": "/p_532",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-poa-amarelo-queimado",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-poa-verde-floresta",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-poa-rosa-queimado",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-borboleta",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-poa-azul-com-bolinhas-brancas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-poa-verde-com-bolinhas-brancas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-bee-buzz-abelhas-fabricart-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_548",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-placas-apples-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-geleia-de-maca-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-cestas-com-macas-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-macas-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-digital-mandalas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-coracoes-color-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-mini-macas-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-digital-mandalas-flores",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-flores-fundo-preto",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-poa-caqui-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/p_810",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-coracao-fundo-claro",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/p_811",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-colecao-nuvens-coloridas-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_558",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-tricoline-personagens-marvel-homem-de-ferro",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/p_815",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-personagens-marvel-hulk",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/p_817",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/p_562",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-personagens-marvel-thor",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-tricoline-personagens-marvel-avengers",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-dino-creme-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_565",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-tricoline-personagens-marvel-pantera-negra",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-tricoline-personagens-marvel-homem-aranha",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_568",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-tricoline-personagens-marvel-vingadores-os-herois",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/p_570",
+  "destination": "/tecidos",
+  "type": 301
+},{
+  "source": "/tecido-nacional-colecao-arabesque-rosa",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-arabesque-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/vies-poa-amarelo-25mm-cinderela-com-20-metros",
+  "destination": "/tecidos",
+  "type": 301
+},{
+  "source": "/kit-de-tecidos-mexico",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{        "source": "/kit-de-tecidos-caveiras",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-frutas",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-disney-1",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{        "source": "/vies-coracao-fundo-vermelho-25mm-cinderela-com-20-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/vies-de-algodao-uva-25mm-cinderela-com-20-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/vies-xadrez-royal-garnde-25mm-cinderela-com-20-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-colecao-selva-colorida-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-sonhando-no-ceu-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-safari",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-little-star-fundo-grafite-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/vies-cinderela-popeline-kitchen-pimentas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_603",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-florestinha",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-poa-amarelo-com-bolinhas-brancas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-fashion-floral-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-digital-nacional-psicoflowers-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-suculentas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-fashion-floral-vanilla",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/p_355",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-bolsas-fashion-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-digital-nacional-psicopandas-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/elastico-chato-8mm-branco",
+  "destination": "/elasticos",
+  "type": 301
+},
+{
+"source": "/elastico-chato-8mm-branco-rolo-com-100-metros",
+  "destination": "/elasticos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-catos-no-camafeu-roxo",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/elastico-rolico-3mm-branco",
+  "destination": "/elasticos",
+  "type": 301
+},
+{
+"source": "/elastico-rolico-3mm-branco-100-metros",
+  "destination": "/elasticos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-viva-mexico-florzinhas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-banana-tropical",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-digital-colecao-cinema",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-barradinhos-divertidos",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/p_364",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-flores-do-deserto",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-digital-colecao-naves-e-planetas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/p_113",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-poa-preto-com-bolinhas-brancas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-flores-do-deserto-escuro",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/vies-listrado-azulmarinho-25mm-cinderela-com-20-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-unicornio",
+  "destination": "/tecidos",
+  "type": 301
+},{
+  "source": "/vies-amarelo-coracao-25mm-cinderela-com-20-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/p_374",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-zoo",
+  "destination": "/tecidos",
+  "type": 301
+},{
+  "source": "/vies-coracao-25mm-cinderela-com-20-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-super-boy-amarelo",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-flores-do-deserto-geometricas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-hospital-medicos",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-hospital-medicos-coracao",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-flores-fundo-cinza",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-clinica-dentista",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-dentinhos",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-cupcake",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-chef-de-cozinha",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-safari-big",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-handmade",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-melancia",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{        "source": "/tecido-painel-de-almofadas-nuvens-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/elastico-chato-5mm-branco-pacote-com-100-metros",
+  "destination": "/elasticos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-neutro-liso-marrom",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/elastico-chato-10mm-branco-kit-com-3-rolos-de-100-metros-cada-rolo",
+  "destination": "/elasticos",
+  "type": 301
+},
+{
+"source": "/p_139",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/elastico-chato-5mm-bege-rolo-com-100-metros",
+  "destination": "/elasticos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-galinhas-coloridas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/elastico-chato-5mm-azul-rolo-com-100-metros",
+  "destination": "/elasticos",
+  "type": 301
+},
+{
+  "source": "/elastico-chato-5mm-verde-rolo-com-100-metros",
+  "destination": "/elasticos",
+  "type": 301
+},
+{        "source": "/elastico-chato-5mm-rosa-clarinho-rolo-com-100-metros",
+  "destination": "/elasticos",
+  "type": 301
+},
+{
+"source": "/elastico-chato-5mm-vermelho-por-metro",
+  "destination": "/elasticos",
+  "type": 301
+},
+{
+  "source": "/elastico-rolico-2mm-preto",
+  "destination": "/elasticos",
+  "type": 301
+},
+{        "source": "/elastico-chato-5mm-branco-para-mascara-de-protecao",
+  "destination": "/elasticos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-neutro-tons-vinho",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-london",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-arabesque-rosa-claro",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-disney-olaf-frozen",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-coracao",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{        "source": "/kit-de-tecidos-mandalas",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-mandalas",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-animais",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-poa-branco-com-bolinhas-pretas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-namaste",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-painel-galinha-cocorico",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/fita-de-gorgurao-costura-38mm-cinderela-com-10-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-principe",
+  "destination": "/tecidos",
+  "type": 301
+},{
+  "source": "/tecido-nacional-colecao-baralho",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-coracao-fundo-preto",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-baralho-copas",
+  "destination": "/tecidos",
+  "type": 301
+},{
+  "source": "/tecido-colecao-listrado-ton-ton-creme-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-barbacoa-black",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/p_428",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-colecao-turma-da-monica-chefs-fundo-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-turma-da-monica-quadrinhos",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-colecao-meninas-super-poderosas-em-acao",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-liso-mocha-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-turma-da-monica-fundo-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-colecao-peppa-pig-dormindo",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-piratas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-colecao-peppa-pig-flores",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-turma-da-monica-magali-fundo-amarelo",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-colecao-peppa-pig-feliz",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-liso-preto-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-turma-da-monica-fundo-branco",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-colecao-george-pirata",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-liso-marinho-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-semaninha-morangos",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-colecao-george-capitao",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-colecao-george-com-patins",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-colecao-peppa-de-ferias",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-mourisco-verde-agua",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-micro-poa-cafe-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-poa-azul-lima-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-colecao-baby-train-bichinhos-e-letras-rosa",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-colecao-bicho-preguica-no-galho",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-novo-mexico-fundo-marrom",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_460",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-flores-do-deserto-geometricas-fundo-claro",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-alegria",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-craft-1",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{        "source": "/kit-de-tecidos-floresta",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-disney",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-harmonia",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{        "source": "/kit-de-tecidos-arabesco",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-monica",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-miau",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{        "source": "/p_215",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-fofura",
+  "destination": "/kit-tecidos",
+  "type": 301
+},{
+  "source": "/p_217",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/kit-de-tecidos-poas",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+{
+"source": "/kit-de-tecidos-giz",
+  "destination": "/kit-tecidos",
+  "type": 301
+},{
+  "source": "/fita-metrica-ursinho",
+  "destination": "/elasticos",
+  "type": 301
+},
+{        "source": "/alca-algodao-rosa",
+  "destination": "/alcas",
+  "type": 301
+},
+{
+"source": "/alca-algodao-preta",
+  "destination": "/alcas",
+  "type": 301
+},
+{
+  "source": "/alca-algodao-pink",
+  "destination": "/alcas",
+  "type": 301
+},
+{        "source": "/tecido-nacional-colecao-semaninha-cupcake",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/p_743",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-amor-urbano-mini-flores",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/p_745",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-lousa-colecao-eduk-estilotex",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-flores-turquesa",
+  "destination": "/tecidos",
+  "type": 301
+},
+{        "source": "/p_494",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+"source": "/tecido-nacional-colecao-abacaxi-estilotex",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-barrado-pano-de-prato-semaninha-flores-e-frutas--14-panos-de-prato",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+
+
+{        "source": "/box-da-virada--brinde-especial",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-tricoline-amazonia-floral",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/vies-xadrez-cinza-25mm-cinderela-com-20-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-coracao-love-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-tricoline-borboletas-rose-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-tricoline-mosaico-istambul-laranja-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-tricoline-varal-de-coracoes-creme-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-colecao-mistica-cashimiere-vermelho",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-tricoline-colecao-mistica-cashimiere-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/kit-para-patchwork-base-regua-cortador-e-tesoura",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-tricoline-colecao-pascoa-patch",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-colecao-pascoa-barrado-pascal",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-tricoline-colecao-pascoa-ovinhos",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-tricoline-colecao-pascoa-coelhinho",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-tricoline-colecao-pascoa-feliz",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-colecao-pascoa-coelhinha",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-tricoline-colecao-tropical-tucanos-flores-3-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-tricoline-colecao-ursinhos-marinheiros-vida-no-mar",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-tricoline-colecao-ursinhos-marinheiros-barcos-velejando",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-sereias",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-tricoline-bonequinha-fofa",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-tricoline-mini-flores-turquesa",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-tricoline-flores-margaridas-girassol-fundo-verde",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-colecao-religiosos-nossa-senhora-das-gracas",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-tricoline-sereias",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-tricoline-bonequinha-fofa",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-tricoline-mini-flores-turquesa",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-flores-margaridas-girassol-fundo-verde",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-colecao-religiosos-nossa-senhora-das-gracas",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-tricoline-colecao-happy-flowers",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-colecao-barrados-de-pano-de-prato-duo-floral",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-natal-winter-christmas-04",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/colecao-natal-painel-natalino-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-tricoline-natal-candy-christmas-12",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-tricoline-natal-candy-christmas-11",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-natal-candy-christmas-10",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-tricoline-natal-candy-christmas-09",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-tricoline-natal-candy-christmas-07",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-tricoline-natal-candy-christmas-04",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-natal-candy-christmas-03",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-tricoline-natal-candy-christmas-02",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-tricoline-natal-candy-christmas-01",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-tricoline-natal-original-christmas-06",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-natal-original-christmas-05",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-tricoline-natal-original-christmas-04",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-tricoline-natal-original-christmas-03",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-tricoline-natal-original-christmas-02",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-natal-original-christmas-01",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-tricoline-natal-winter-christmas-06",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-tricoline-natal-winter-christmas-05",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-tricoline-natal-winter-christmas-03",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-natal-winter-christmas-02",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-tricoline-natal-winter-christmas-01",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-contemporaneo-20-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-tricoline-colecao-mini-zoo-nuvens",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-barrado-pano-de-prato-semaninha-flores-e-frutas--14-panos-de-prato",
+  "destination": "/kit-tecidos",
+  "type": 301
+},
+
+
+{        "source": "/kit-placa-de-corte-regua-e-cortador-circular",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-tricoline-colecao-preto-e-branco-abacaxi-fundo-preto",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-tricoline-colecao-caleidoscopio-rose-p",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-tricoline-colecao-caleidoscopio-mini-flores-cristal",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/pano-de-prato-frase-divertida-15-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/pano-de-prato-frase-divertida-14-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/pano-de-prato-frase-divertida-13-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/pano-de-prato-frase-divertida-12-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/pano-de-prato-frase-divertida-11-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/pano-de-prato-frase-divertida-10-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/pano-de-prato-frase-divertida-09-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/pano-de-prato-frase-divertida-08-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/pano-de-prato-frase-divertida-07-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/pano-de-prato-frase-divertida-06-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/pano-de-prato-frase-divertida-05-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/pano-de-prato-frase-divertida-04-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/pano-de-prato-frase-divertida-03-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/pano-de-prato-frase-divertida-02-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/pano-de-prato-frase-divertida-01-com-bainha-100-algodao",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-colecao-natal-barrado-natalino",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-colecao-natal-flores-mini-flores-natalinas",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-colecao-natal-flores-natalinas",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-colecao-natal-estrelinhas-vermelhas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/colecao-natal-jogo-americano-natalino",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/colecao-natal-botas-natalinas",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-chuvisco-amarelo-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-estrelinhas-sweet-dreams-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/fecho-pochete-25mm-1000-unidades",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/colecao-bosque-encantado",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/colecao-fofura-do-campo",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-flores-esperanca-fundo-amarelo",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-flores-da-esperanca-fundo-cinza",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-nacional-colecao-sonhos-fundo-rosa",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-sonhos-amarelo-e-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-sonhos",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-cat-lovers-cat-13-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-nacional-colecao-cat-lovers-cat-12-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-cat-lovers-cat-8-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-cat-lovers-cat-7-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-cat-lovers-cat-2-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/alca-chic-3cm-para-bolsas-coral",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/gancho-para-necessaire-25-unidade",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/cursor-para-ziper-numero-56-coracao-pingente-niquelado-unidade",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-coelhinho-no-jardim-verde",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-nacional-colecao-coelhinho-no-jardim-marinho",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-coelhinho-no-jardim-passaros-marinho",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-coelhinho-no-jardim-passaros-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-coelhinho-no-jardim-passaros-marrom",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-nacional-colecao-coelhinho-no-jardim-bolinhas-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-coelhinho-no-jardim-bolinhas-marrom",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-coelhinho-no-jardim-bolinhas-marinho",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecidonacionalcolecaoelefantinhorosa",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecidooxfordverdemusgo",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecidooxfordmarromclaro",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecidonacionalcolecaogaloportugues",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecidonacionalcolecaoborboletasazul",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/atoalhadofelpudocinza",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/atoalhadofelpudorosabebe",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/atoalhadofelpudoazulclaro",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecidodigitalcorujinhasnogalho",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecidonacionaldigitalcolecaorolhasdevinho",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecidonacionalcolecaolovecatsmeow",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/kit-necessaire-estilotex-biafeltz",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-artdecor-abacaxi-trio-estilotex",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-nacional-colecao-artdecor-romantic-trio-estilotex",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-artdecor-tropical-trio-estilotex",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-artdecor-macas-trio-estilotex",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-artdecor-melancia-trio-estilotex",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-nacional-colecao-artdecor-siciliano-trio-estilotex",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-coelhos-pascoa-estilotex",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-mini-baloes-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/revista-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-estampa-borboleta",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-xadrez-verde-fazendinha-estilotex",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-natal-fundo-verde",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-natal-fundo-vermelho",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-nacional-colecao-textura-verde-musgo",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-flores-amarelas",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-digital-caveiras-camufladas",
+  "destination": "/tecidos",
+  "type": 301
+},{
+  "source": "/tecido-nacional-colecao-digital-caveiras-estilosas",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/kit-de-tecidos-lila",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/kit-de-tecidos-charmoso",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/kit-de-tecidos-blush",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-abelhinhas",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-colecao-xadrez-verde-picnic-fabricart1",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-botao-listrado-turmalina",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-mini-cashmere-marinho-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-flores-50cm",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/p_511",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-pandas-baloes-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-abacaxi-estilotex",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_494",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-nacional-colecao-flores-turquesa",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-lousa-colecao-eduk-estilotex",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/p_745",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+{
+  "source": "/tecido-nacional-colecao-amor-urbano-mini-flores",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/p_743",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-semaninha-cupcake",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/alca-algodao-pink",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/alca-algodao-preta",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/alca-algodao-rosa",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/fita-metrica-ursinho",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/kit-de-tecidos-giz",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-poas",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/p_217",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/kit-de-tecidos-fofura",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/p_215",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-miau",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/kit-de-tecidos-monica",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/kit-de-tecidos-arabesco",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/kit-de-tecidos-harmonia",
+  "destination": "/tecidos",
+  "type": 301
+},{
+  "source": "/kit-de-tecidos-disney",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/kit-de-tecidos-floresta",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/kit-de-tecidos-craft-1",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/kit-de-tecidos-alegria",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-flores-do-deserto-geometricas-fundo-claro",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/p_460",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-novo-mexico-fundo-marrom",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-colecao-bicho-preguica-no-galho",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+{
+  "source": "/tecido-colecao-baby-train-bichinhos-e-letras-rosa",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-nacional-colecao-poa-azul-lima-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-micro-poa-cafe-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-mourisco-verde-agua",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-colecao-peppa-de-ferias",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-colecao-george-com-patins",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-colecao-george-capitao",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-semaninha-morangos",
+  "destination": "/tecidos",
+  "type": 301
+},{
+  "source": "/tecido-nacional-colecao-liso-marinho-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-colecao-george-pirata",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-turma-da-monica-fundo-branco",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-liso-preto-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-colecao-peppa-pig-feliz",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-nacional-colecao-turma-da-monica-magali-fundo-amarelo",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-colecao-peppa-pig-flores",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-piratas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-colecao-peppa-pig-dormindo",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-nacional-colecao-turma-da-monica-fundo-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-liso-mocha-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-colecao-meninas-super-poderosas-em-acao",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-turma-da-monica-quadrinhos",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-colecao-turma-da-monica-chefs-fundo-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/p_428",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-barbacoa-black",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+{
+  "source": "/tecido-colecao-listrado-ton-ton-creme-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-nacional-colecao-baralho-copas",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-coracao-fundo-preto",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-baralho",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-principe",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/fita-de-gorgurao-costura-38mm-cinderela-com-10-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-painel-galinha-cocorico",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/kit-de-tecidos-namaste",
+  "destination": "/tecidos",
+  "type": 301
+},{
+  "source": "/tecido-nacional-colecao-poa-branco-com-bolinhas-pretas",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/kit-de-tecidos-animais",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/kit-de-tecidos-mandalas",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/kit-de-tecidos-coracao",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-disney-olaf-frozen",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/tecido-nacional-colecao-arabesque-rosa-claro",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/kit-de-tecidos-london",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/tecido-nacional-colecao-neutro-tons-vinho",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/elastico-chato-5mm-branco-para-mascara-de-protecao",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/elastico-rolico-2mm-preto",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/elastico-chato-5mm-vermelho-por-metro",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/elastico-chato-5mm-rosa-clarinho-rolo-com-100-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/elastico-chato-5mm-verde-rolo-com-100-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{        "source": "/elastico-chato-5mm-azul-rolo-com-100-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+"source": "/tecido-nacional-colecao-galinhas-coloridas",
+  "destination": "/tecidos",
+  "type": 301
+},
+
+
+{
+  "source": "/elastico-chato-5mm-bege-rolo-com-100-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_139",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/elastico-chato-10mm-branco-kit-com-3-rolos-de-100-metros-cada-rolo",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-neutro-liso-marrom",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/elastico-chato-5mm-branco-pacote-com-100-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-painel-de-almofadas-nuvens-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-melancia",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-handmade",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-safari-big",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-chef-de-cozinha",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-cupcake",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-dentinhos",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-clinica-dentista",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-flores-fundo-cinza",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-hospital-medicos-coracao",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-hospital-medicos",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-flores-do-deserto-geometricas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-super-boy-amarelo",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/vies-coracao-25mm-cinderela-com-20-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-zoo",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_374",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/vies-amarelo-coracao-25mm-cinderela-com-20-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-unicornio",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/vies-listrado-azulmarinho-25mm-cinderela-com-20-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-flores-do-deserto-escuro",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-poa-preto-com-bolinhas-brancas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_113",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-digital-colecao-naves-e-planetas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-flores-do-deserto",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_364",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-barradinhos-divertidos",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-digital-colecao-cinema",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-banana-tropical",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-viva-mexico-florzinhas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/elastico-rolico-3mm-branco-100-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/elastico-rolico-3mm-branco",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-catos-no-camafeu-roxo",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/elastico-chato-8mm-branco-rolo-com-100-metros",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-flores-e-cactos-roxo",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/elastico-chato-8mm-branco",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-digital-nacional-psicopandas-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-bolsas-fashion-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_355",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-fashion-floral-vanilla",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-suculentas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-digital-nacional-psicoflowers-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-coracao-fundo-claro",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_810",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-poa-caqui-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-flores-fundo-preto",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-digital-mandalas-flores",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-mini-macas-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-coracoes-color-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-digital-mandalas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-macas-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-cestas-com-macas-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-geleia-de-maca-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-placas-apples-fabricart",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_548",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-bee-buzz-abelhas-fabricart-azul",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-poa-verde-com-bolinhas-brancas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-poa-azul-com-bolinhas-brancas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-borboleta",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-poa-rosa-queimado",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-poa-verde-floresta",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-poa-amarelo-queimado",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_532",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-jolie",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_785",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-florzinhas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-poa-cafe",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-planetas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-poeira-azul-noturno",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-tucano",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-folhas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-nuvem",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-arabesque-pink",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-bee",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-family",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-santo-antonio",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-estrelas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-londres",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-corujas-e-jardineira",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-costura",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-disney-princesas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/aula-exclusiva-online-mochila",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_481",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/p_992",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-fazenda",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-turma-da-monica-cascao-fundo-laranja",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-colecao-turma-da-monica-rostinhos-bidu",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-colecao-turma-da-monica-astronautas",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-lapis-e-giz",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/manta-acrilica-r2-estilotex-colante-dos-dois-lados",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-peppa-e-monica",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/manta-acrilica-r1",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-lhama-e-cacto",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-gato-e-panda",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/kit-de-tecidos-floresta-encantada",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/aula-exclusiva-online-bolsa-karina",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-maca-fundo-escuro",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-caveiras-fabricart-caveiras-mexicanas-e-flores",
+  "destination": "/tecidos",
+  "type": 301
+},
+{
+  "source": "/tecido-nacional-colecao-camuflados-fabricart-camuflado-deserto",
+  "destination": "/tecidos",
+  "type": 301
 }
-    ],
+],
     "public": "dist",
     "ignore": [
       "firebase.json",
