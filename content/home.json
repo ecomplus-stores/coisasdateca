@@ -7,6 +7,12 @@
       "autoplay": 7000,
       "slides": [
         {
+          "start": "2024-05-21T19:19:45.659Z",
+          "end": "",
+          "img": "/img/uploads/banner-loja-virtual-multiuso-liquidacao-promocao-colorido-amarelo-roxo.png",
+          "link": "https://coisasdatecaloja.com.br/digital"
+        },
+        {
           "start": "2024-01-07T16:51:00.001Z",
           "end": "",
           "img": "/img/uploads/banner-frete-gratis-loja-virtual-multiuso-moderno-gradiente-rosa-azul-1-.png",
@@ -20,12 +26,6 @@
           "link": "https://coisasdatecaloja.com.br/pano-de-prato",
           "alt": "Sacarias e Panos de Prato",
           "mobile_img": ""
-        },
-        {
-          "start": "2024-05-21T19:19:45.659Z",
-          "end": "",
-          "img": "/img/uploads/banner-loja-virtual-multiuso-liquidacao-promocao-colorido-amarelo-roxo.png",
-          "link": "https://coisasdatecaloja.com.br/digital"
         }
       ],
       "full_width": true
