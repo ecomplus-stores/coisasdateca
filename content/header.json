@@ -12,11 +12,8 @@
   "categories_list": {
     "featured": [
       "/tecidos?Tecidos",
-      "/busque-por-temas?Busque por Temas",
-      "/colecoes?Busque por Coleções",
       "/kit-tecidos?Kit Tecidos",
-      "/armarinho?Armarinho",
-      "/alcas?Alças"
+      "/armarinho?Armarinho"
     ],
     "random": 6,
     "full_width": true
