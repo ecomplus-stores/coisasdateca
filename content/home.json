@@ -37,24 +37,6 @@
       "link": "https://coisasdatecaloja.com.br/blog"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/nas-redes.png",
-          "link": "https://coisasdatecaloja.com.br/nas-redes"
-        },
-        {
-          "img": "/img/uploads/destaques.png",
-          "link": "https://coisasdatecaloja.com.br/destaques-da-semana"
-        },
-        {
-          "img": "/img/uploads/descontos.png",
-          "link": "https://coisasdatecaloja.com.br/pages/em-oferta",
-          "alt": "Descontos Especiais"
-        }
-      ]
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/cupom-primeira-compra.png",
       "mobile_img": "/img/uploads/cupom-primeira-mobile.png"
