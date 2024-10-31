@@ -101,24 +101,6 @@
       "collection_id": "5f375855f023684cdbda83ad:categories:Viés:/vies"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/variedade-de-estampas.png",
-          "link": "https://coisasdatecaloja.com.br/pages/todos-os-produtos",
-          "alt": "Confira Todos os Produtos"
-        },
-        {
-          "img": "/img/uploads/youtube.png",
-          "link": "https://coisasdatecaloja.com.br/blog"
-        },
-        {
-          "img": "/img/uploads/frete-gratis.png",
-          "link": "https://coisasdatecaloja.com.br/pages/promocoes-frete"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
