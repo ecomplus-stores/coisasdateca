@@ -370,10 +370,7 @@
         "destination": "/tecidos",
         "type": 301
       },
-        "destination": "/tecidos",
-        "type": 301
-      },
-
+    
 {
         "source": "/tecido-nacional-colecao-contemporaneo-fabricart-flores-azul",
         "destination": "/tecidos",
