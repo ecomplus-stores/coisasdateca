@@ -28,6 +28,19 @@
     {
       "type": "custom-html",
       "html": "<div class=\"sections pb-1 pb-sm-2 pb-lg-4\">\n<div class=\"responsive-baner my-3 my-lg-4\">\n  <div class=\"container\"><center><div class=\"banner\"><a href=\"https://pay.hotmart.com/Y85449394G?bid=17308315739022\" aria-label=\"Bolsa Alice - Coisas da Teca - Artesanato para você\">\n    <picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/chamada-final.png\" data-alt=\"Bolsa Alice - Coisas da Teca - Artesanato para você\" data-loaded=\"true\"><source srcset=\"/img/uploads/__compre-aula-mochila-sofia-coisasdateca.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/chamada-final.png\" media=\"\" type=\"image/png\"><img alt=\"Bolsa Alice - Coisas da Teca - Artesanato para você\"></picture></a></center></div>\n</div></section>\n"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     }
   ]
 }
