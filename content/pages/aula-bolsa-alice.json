@@ -27,7 +27,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<center><a href=\"https://pay.hotmart.com/Y85449394G?bid=1730831573902\" class=\"bt\" target=\"_blank\">\n  EU QUERO!</a></center>"
+      "html": "<center><a href=\"https://pay.hotmart.com/Y85449394G?bid=1730831573902\" \n           class=\"bt\" target=\"_blank\">\n  EU QUERO!</a></center>"
     }
   ]
 }
