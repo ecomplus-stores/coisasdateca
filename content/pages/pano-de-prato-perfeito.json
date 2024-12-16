@@ -13,8 +13,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/panodepratoperfeito.png",
-      "link": "https://pay.hotmart.com/C95841592K?bid=1730831920146",
+      "img": "/img/uploads/pano-de-prato-perfeito1.png",
+      "link": "https://pay.hotmart.com/C95841592K",
       "alt": "Aula Pano de Prato Perfeito"
     },
     {
@@ -23,7 +23,20 @@
     },
     {
       "type": "custom-html",
-      "html": "<div class=\"html-clearfix\"><center><a href=\"https://pay.hotmart.com/C95841592K?bid=1730831920146\" class=\"bt\" target=\"_blank\">EU QUERO!</a></center></div>"
+      "html": "  <div class=\"container\"><center><div class=\"banner\"><a href=\"https://pay.hotmart.com/C95841592K\"   target=\"_blank” aria-label=\"Aula Pano de Prato Perfeito - Coisas da Teca - Artesanato para você\"> <picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/chamada-final.png\" data-alt=\"Aula Pano de Prato Perfeito - Coisas da Teca - Artesanato para você\" data-loaded=\"true\"><source srcset=\"/img/uploads/chamada-final.png\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/chamada-final.png\" media=\"\" type=\"image/png\"><img alt=\"Aula Pano de Prato Perfeito- Coisas da Teca - Artesanato para você\"></picture></a>"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     }
   ]
 }
