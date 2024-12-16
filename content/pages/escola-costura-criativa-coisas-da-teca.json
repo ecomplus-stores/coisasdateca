@@ -7,7 +7,16 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2024-12-16T18:40:32.437Z",
+          "end": "",
+          "img": "/img/uploads/escola-criativa-costura-coisas-da-teca-1-.png",
+          "link": "https://pay.hotmart.com/V95857250U",
+          "alt": "Escola Costura Criativa Coisas da Teca"
+        }
+      ]
     },
     {
       "type": "breadcrumbs",
