@@ -7,6 +7,12 @@
       "type": "page-title"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/mochila-sofia.png",
+      "link": "https://pay.hotmart.com/A75996120K",
+      "alt": "Costure a Mochila Sofia: Aula Online"
+    },
+    {
       "type": "extra-page",
       "enabled": true
     },
