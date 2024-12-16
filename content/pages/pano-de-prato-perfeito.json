@@ -12,8 +12,18 @@
       "type": "page-title"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/panodepratoperfeito.png",
+      "link": "https://pay.hotmart.com/C95841592K?bid=1730831920146",
+      "alt": "Aula Pano de Prato Perfeito"
+    },
+    {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"html-clearfix\"><center><a href=\"https://pay.hotmart.com/C95841592K?bid=1730831920146\" class=\"bt\" target=\"_blank\">EU QUERO!</a></center></div>"
     }
   ]
 }
