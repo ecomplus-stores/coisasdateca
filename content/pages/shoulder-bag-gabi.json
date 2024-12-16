@@ -1,0 +1,30 @@
+{
+  "title": "Shoulder Bag Gabi",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    }
+  ],
+  "body": "Shoulder Bag Gabi"
+}
