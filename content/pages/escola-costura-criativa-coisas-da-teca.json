@@ -19,6 +19,9 @@
       ]
     },
     {
+      "type": "page-title"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -27,7 +30,8 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "custom-html",
+      "html": "<div class=\"container\"><center><div class=\"banner\"><a href=\"https://pay.hotmart.com/V95857250U\"   target=\"_blank” aria-label=\"Escola Costura Criativa Coisas da Teca\n - Artesanato para você\"> <picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/chamada-final.png\" data-alt=\"Escola Costura Criativa Coisas da Teca\n - Artesanato para você\" data-loaded=\"true\"><source srcset=\"/img/uploads/chamada-final.png\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/chamada-final.png\" media=\"\" type=\"image/png\"><img alt=\"Escola Costura Criativa Coisas da Teca\n- Artesanato para você\"></picture></a>\n"
     },
     {
       "type": "info-bar",
