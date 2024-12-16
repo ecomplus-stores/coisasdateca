@@ -13,7 +13,7 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/mini-mochila-cris.png",
+      "img": "/img/uploads/mini-mochila-cris1.png",
       "link": "https://pay.hotmart.com/A80449089M",
       "alt": "Costure a Mini Mochila Cris: Aula Online com a Teca!"
     },
@@ -27,7 +27,20 @@
     },
     {
       "type": "custom-html",
-      "html": "<center><a href=\"https://pay.hotmart.com/A80449089M\" class=\"bt\" \n           target=\"_blank\">EU QUERO!</a></center>"
+      "html": "    <div class=\"container\"><center><div class=\"banner\"><a href=\"https://pay.hotmart.com/A80449089M\"   target=\"_blank” aria-label=\"Aula Mini Mochila Cris - Coisas da Teca - Artesanato para você\"> <picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/chamada-final.png\" data-alt=\"Aula Mini Mochila Cris - Coisas da Teca - Artesanato para você\" data-loaded=\"true\"><source srcset=\"/img/uploads/chamada-final.png\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/chamada-final.png\" media=\"\" type=\"image/png\"><img alt=\"Aula Mini Mochila Cris - Coisas da Teca - Artesanato para você\"></picture></a>"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     }
   ]
 }
