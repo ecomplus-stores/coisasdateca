@@ -74,6 +74,23 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/pano-de-prato-perfeito1.png",
+          "link": "https://coisasdatecaloja.com.br/pages/pano-de-prato-perfeito"
+        },
+        {
+          "img": "/img/uploads/pochetekika.png",
+          "link": "https://coisasdatecaloja.com.br/pages/pochete-kika"
+        },
+        {
+          "img": "/img/uploads/shoulder-bag-gabi.png",
+          "link": "https://coisasdatecaloja.com.br/pages/shoulder-bag-gabi"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
