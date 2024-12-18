@@ -57,6 +57,23 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/mochila-sofia.png",
+          "link": "https://coisasdatecaloja.com.br/pages/aula-mochila-sofia"
+        },
+        {
+          "img": "/img/uploads/necessaire-do-bebe.png",
+          "link": "https://coisasdatecaloja.com.br/pages/necessaire-do-bebe-com-trocador-portatil"
+        },
+        {
+          "img": "/img/uploads/necessarie-bella.png",
+          "link": "https://coisasdatecaloja.com.br/pages/necessarie-bella"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
