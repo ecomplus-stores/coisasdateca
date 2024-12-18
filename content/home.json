@@ -9,37 +9,26 @@
         {
           "start": "2024-11-18T18:47:07.897Z",
           "end": "",
-          "img": "/img/uploads/copia-de-banner-loja-virtual-multiuso-liquidacao-promocao-colorido-amarelo-roxo.png",
-          "link": "https://coisasdatecaloja.com.br/search?term=BARRADO"
+          "img": "/img/uploads/barradosprato.webp",
+          "link": "https://coisasdatecaloja.com.br/search?term=BARRADO",
+          "mobile_img": "/img/uploads/barradosprato-m.webp"
         },
         {
           "start": "2024-01-07T16:51:00.001Z",
           "end": "",
-          "img": "/img/uploads/banner-frete-gratis-loja-virtual-multiuso-moderno-gradiente-rosa-azul-1-.png",
+          "img": "/img/uploads/kittecidos.webp",
           "link": "https://coisasdatecaloja.com.br/kit-tecidos",
-          "alt": "Enviamos para Todo Brasil, confira as Promoções em Frete "
-        },
-        {
-          "start": "2024-01-07T21:27:00.842Z",
-          "end": "",
-          "img": "/img/uploads/banner-mercado-shops-promocao-mes-das-maes-minimalista-rosa-e-branco-1-.png",
-          "link": "https://coisasdatecaloja.com.br/pano-de-prato",
-          "alt": "Sacarias e Panos de Prato",
-          "mobile_img": ""
+          "alt": "Enviamos para Todo Brasil, confira as Promoções em Frete ",
+          "mobile_img": "/img/uploads/kittecidos-m.webp"
         }
       ],
       "full_width": true
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/fachada-tecidos-coisasdateca.png",
-      "mobile_img": "/img/uploads/fachadamobileteca.png",
-      "link": "https://coisasdatecaloja.com.br/blog"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/cupom-primeira-compra.png",
-      "mobile_img": "/img/uploads/cupom-primeira-mobile.png"
+      "img": "/img/uploads/fachada-principal.webp",
+      "mobile_img": "/img/uploads/fachada-principalm.webp",
+      "link": "https://coisasdatecaloja.com.br/pages/promocoes-frete"
     },
     {
       "type": "collection-shelf",
@@ -47,7 +36,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6160cfed28ace502ae9bfe06:collections:♥ Os Queridinhos  ♥:/os-queridinhos-coisasdateca",
-      "sort": "highest_price",
+      "sort": "views",
       "link": "https://coisasdatecaloja.com.br/destaques-da-semana",
       "title": "♥ Os queridinhos do mês ♥ "
     },
@@ -57,48 +46,14 @@
       "sort": "news"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/tecidos.png",
-      "link": "https://coisasdatecaloja.com.br/tecidos",
-      "mobile_img": "/img/uploads/tecidos-mobile.png",
-      "alt": "Tecidos de Algodão para seu Artesanato , veja mais "
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": null,
+      "link": "https://coisasdatecaloja.com.br/pages/em-oferta",
+      "title": "♥ Descontos Especiais, confira ♥ ",
       "sort": "offers",
-      "title": "♥ Ofertas ♥  ",
-      "link": "https://coisasdatecaloja.com.br/pages/em-oferta"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/armarinho.png",
-      "mobile_img": "/img/uploads/armarinho-mobile.png",
-      "link": "https://coisasdatecaloja.com.br/armarinho",
-      "alt": "Confira nossa seção de  Armarinho - Envio para Todo Brasil "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "link": "https://coisasdatecaloja.com.br/armarinho",
-      "title": "♥  Para você Criar - Confira a seção Armarinho    ♥ ",
-      "collection_id": "5f19eb4914ff772fde81d7f1:categories:Armarinho:/armarinho"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "link": "https://coisasdatecaloja.com.br/vies",
-      "title": "♥ Mais de Armarinho - vem conferir  ♥ ",
-      "sort": "sales",
-      "collection_id": "5f375855f023684cdbda83ad:categories:Viés:/vies"
+      "collection_id": null
     },
     {
       "type": "info-bar",
