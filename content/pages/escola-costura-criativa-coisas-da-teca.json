@@ -37,7 +37,24 @@
     },
     {
       "type": "custom-html",
-      "html": "<div class=\"container\"><center><div class=\"banner\"><a href=\"https://pay.hotmart.com/V95857250U\"   target=\"_blank” aria-label=\"Escola Costura Criativa Coisas da Teca\n - Artesanato para você\"> <picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/chamada-final.png\" data-alt=\"Escola Costura Criativa Coisas da Teca\n - Artesanato para você\" data-loaded=\"true\"><source srcset=\"/img/uploads/chamada-final.png\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/chamada-final.png\" media=\"\" type=\"image/png\"><img alt=\"Escola Costura Criativa Coisas da Teca\n- Artesanato para você\"></picture></a>\n"
+      "html": "<div class=\"container\"><center><div class=\"banner\"><a href=\"https://pay.hotmart.com/V95857250U\"   target=\"_blank” aria-label=\"Escola Costura Criativa Coisas da Teca\n - Artesanato para você\"> <picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/chamada-final.png\" data-alt=\"Escola Costura Criativa Coisas da Teca\n - Artesanato para você\" data-loaded=\"true\"><source srcset=\"/img/uploads/chamada-final.png\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/chamada-final.png\" media=\"\" type=\"image/png\"><img alt=\"Escola Costura Criativa Coisas da Teca\n- Artesanato para você\"></picture></a>\n  \n  <br> <br> \n  \n  <h3>Compre também aulas avulsas</h3>\n"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bolsa-alice-topo.png",
+          "link": "https://coisasdatecaloja.com.br/pages/aula-bolsa-alice"
+        },
+        {
+          "img": "/img/uploads/bolsa-mari.png",
+          "link": "https://coisasdatecaloja.com.br/pages/bolsa-mari"
+        },
+        {
+          "img": "/img/uploads/mini-mochila-cris.png",
+          "link": "https://coisasdatecaloja.com.br/pages/mini-mochila-cris"
+        }
+      ]
     },
     {
       "type": "info-bar",
