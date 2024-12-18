@@ -20,6 +20,13 @@
           "link": "https://coisasdatecaloja.com.br/kit-tecidos",
           "alt": "Enviamos para Todo Brasil, confira as Promoções em Frete ",
           "mobile_img": "/img/uploads/kittecidos-m.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/sacariasepanos.webp",
+          "mobile_img": "/img/uploads/sacariasepanos-m.webp",
+          "link": "https://coisasdatecaloja.com.br/pano-de-prato"
         }
       ],
       "full_width": true
